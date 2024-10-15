@@ -1,0 +1,8 @@
+Bitcoin, created in 2009 by the pseudonymous Satoshi Nakamoto, is the first cryptocurrency that enables peer-to-peer 
+transactions without intermediaries. With a capped supply of 21 million coins, it operates on a deflationary model, 
+attracting both investors and speculators.
+Powered by blockchain technology, Bitcoin ensures secure and transparent transactions. Despite facing regulatory scrutiny 
+and environmental concerns, its growing acceptance by businesses and individuals underscores its potential to reshape the 
+financial landscape.
+As a symbol of decentralized finance, Bitcoin continues to influence how we think about money and investment in the digital 
+age.
