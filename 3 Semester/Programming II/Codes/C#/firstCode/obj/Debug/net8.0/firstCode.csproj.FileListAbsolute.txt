@@ -1,0 +1,14 @@
+C:\Users\andre\OneDrive\Escritorio\Actual Semester\Programming II\C#\firstCode\bin\Debug\net8.0\firstCode.exe
+C:\Users\andre\OneDrive\Escritorio\Actual Semester\Programming II\C#\firstCode\bin\Debug\net8.0\firstCode.deps.json
+C:\Users\andre\OneDrive\Escritorio\Actual Semester\Programming II\C#\firstCode\bin\Debug\net8.0\firstCode.runtimeconfig.json
+C:\Users\andre\OneDrive\Escritorio\Actual Semester\Programming II\C#\firstCode\bin\Debug\net8.0\firstCode.dll
+C:\Users\andre\OneDrive\Escritorio\Actual Semester\Programming II\C#\firstCode\bin\Debug\net8.0\firstCode.pdb
+C:\Users\andre\OneDrive\Escritorio\Actual Semester\Programming II\C#\firstCode\obj\Debug\net8.0\firstCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\OneDrive\Escritorio\Actual Semester\Programming II\C#\firstCode\obj\Debug\net8.0\firstCode.AssemblyInfoInputs.cache
+C:\Users\andre\OneDrive\Escritorio\Actual Semester\Programming II\C#\firstCode\obj\Debug\net8.0\firstCode.AssemblyInfo.cs
+C:\Users\andre\OneDrive\Escritorio\Actual Semester\Programming II\C#\firstCode\obj\Debug\net8.0\firstCode.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Escritorio\Actual Semester\Programming II\C#\firstCode\obj\Debug\net8.0\firstCode.dll
+C:\Users\andre\OneDrive\Escritorio\Actual Semester\Programming II\C#\firstCode\obj\Debug\net8.0\refint\firstCode.dll
+C:\Users\andre\OneDrive\Escritorio\Actual Semester\Programming II\C#\firstCode\obj\Debug\net8.0\firstCode.pdb
+C:\Users\andre\OneDrive\Escritorio\Actual Semester\Programming II\C#\firstCode\obj\Debug\net8.0\firstCode.genruntimeconfig.cache
+C:\Users\andre\OneDrive\Escritorio\Actual Semester\Programming II\C#\firstCode\obj\Debug\net8.0\ref\firstCode.dll

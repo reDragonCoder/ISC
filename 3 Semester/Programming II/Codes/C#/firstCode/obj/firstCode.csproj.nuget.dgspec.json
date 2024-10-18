@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\andre\\OneDrive\\Escritorio\\Github Repositories\\ISC\\3 Semester\\Programming II\\Codes\\C#\\controlStructures\\controlStructures.csproj": {}
+    "C:\\Users\\andre\\OneDrive\\Escritorio\\Actual Semester\\Programming II\\C#\\firstCode\\firstCode.csproj": {}
   },
   "projects": {
-    "C:\\Users\\andre\\OneDrive\\Escritorio\\Github Repositories\\ISC\\3 Semester\\Programming II\\Codes\\C#\\controlStructures\\controlStructures.csproj": {
+    "C:\\Users\\andre\\OneDrive\\Escritorio\\Actual Semester\\Programming II\\C#\\firstCode\\firstCode.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\andre\\OneDrive\\Escritorio\\Github Repositories\\ISC\\3 Semester\\Programming II\\Codes\\C#\\controlStructures\\controlStructures.csproj",
-        "projectName": "controlStructures",
-        "projectPath": "C:\\Users\\andre\\OneDrive\\Escritorio\\Github Repositories\\ISC\\3 Semester\\Programming II\\Codes\\C#\\controlStructures\\controlStructures.csproj",
+        "projectUniqueName": "C:\\Users\\andre\\OneDrive\\Escritorio\\Actual Semester\\Programming II\\C#\\firstCode\\firstCode.csproj",
+        "projectName": "firstCode",
+        "projectPath": "C:\\Users\\andre\\OneDrive\\Escritorio\\Actual Semester\\Programming II\\C#\\firstCode\\firstCode.csproj",
         "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\andre\\OneDrive\\Escritorio\\Github Repositories\\ISC\\3 Semester\\Programming II\\Codes\\C#\\controlStructures\\obj\\",
+        "outputPath": "C:\\Users\\andre\\OneDrive\\Escritorio\\Actual Semester\\Programming II\\C#\\firstCode\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config",
