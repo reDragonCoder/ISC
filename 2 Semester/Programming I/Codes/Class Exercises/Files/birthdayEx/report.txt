@@ -1,0 +1,4 @@
+The total question marks in the text is: 10 
+The total letters in the text is: 635 
+The total characters in the text is: 706 
+The total spaces in the text is: 167 

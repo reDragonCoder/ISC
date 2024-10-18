@@ -1,0 +1,59 @@
+//Archivos .txt
+
+* Usan las librerías iostream, string.h y stdlib.h.
+
+* Usan using namespace std;
+
+*Para hacer un archivo con un nombre hecho por el usuario, se hace una función char*, se crea memoria dinámica como new char[],
+ se pide el nombre y se usa strcat(file, ".txt"); para agregar la extensión. EN main se declara char* y delete[] name;
+
+* Para usar un archivo se declara FILE* con el nombre y =NULL, esto en main o menú
+
+*Dentro de las funciones se pone:
+ file=fopen("file.txt", "r"); ó file=fopen(name, "r");
+ Luego:
+ if(file==NULL){
+    cout<<"ERROR";
+    exit(1);
+ }
+ Y luego la lógica de lectura o escritura.
+ Por último: fclose(file);
+
+*r -> lectura
+ w-> escritura o sobreescritura
+ a-> escritura y cursor al final del archivo
+
+*fgetc -> char
+ fputc -> char
+ feof -> final del archivo
+ rewind -> rebobinar
+ fgets -> string
+ fputs ->string
+ fprintf -> cualquier formato
+ fscanf -> cualquier formato
+NOTE: fscanf y fprintf es (file, "%s", string);
+
+*Para leer una línea:
+ char line[100];
+ while(fgets(line, sizeof(line), file)){
+    //logic
+ }
+
+*sscanf lee datos desde una cadena de caracteres (string): sscanf(line, "%d", &actualNum)==1 y el 
+ 1 significa que lo leyó bien.
+
+*Para obtener posiciones usar lógica de líneas y un contador.
+
+*% (mod) para intercalar líneas segpun su posición (iniciar posición en 1).
+
+*fputs es fputs(line, file);
+
+*fflush(stdin) antes de guardar cadenas o caracteres
+
+*Para registrar datos, hacer una variable para cada uno y usar gets y cin para guardarlos, después fprintf(file, "%d", id);
+
+*Ciclo para recorrer y leer un archivo:
+ while(fscanf(file, "%s%d", name, id)!=EOF){ //EOF=End Of File
+ }
+
+

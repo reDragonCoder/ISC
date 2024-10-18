@@ -1,0 +1,45 @@
+//Archivos .dat
+
+* Usar librerías iostream, string.h, stdlib.h y ctype.h
+
+*Declarar una ESTRUCTURA
+
+*Declarar FILE* file=NULL;
+
+*Dentro de la función, declarar aux del tipo de estructura.
+ Abrir file=fopen("file.dat", "ab");
+ Poner:
+ if(file==NULL){
+    cout<<"ERROR";
+    exit(1);
+ }
+ Pedir datos y usar aux.dato para guardarlos. Después:
+ fwrite(&aux, sizeof(Struct), 1, file); dentro del ciclo
+ Cerrar con fclose(file);
+
+*Usan fwrite y fread: 
+ x(&aux, sizeof(Struct), 1, file);
+
+*rb -> lectura binario
+ wb -> escritura binario
+ ab -> añadir a binario
+ r+ -> lectura, existente binario
+ w+ -> escritura, existente binario
+ a+ -> añadir
+ rb+ -> lectura/escritura, abrir
+ wb+ -> lectura/escritura, crear
+ ab+ -> lectura/escritura, añadir
+
+*Para leer:
+ fseek(file, 0L, SEEK_END);
+ fileSize=ftell(file)/sizeof(Struct);
+ fseek(file, 0L, SEEK_SET);
+ for(int i=0; i<fileSize; i++){
+    fread(&aux, sizeof(Struct), 1, file);
+    printf() or other
+ }
+
+*SEEK_END -> final del archivos
+ SEEK_SET -> comienzo del archivo
+ SEEK_CUR -> según el indicador actual (para posición)
+  fseek(file, 5, SEEK_CUR);
