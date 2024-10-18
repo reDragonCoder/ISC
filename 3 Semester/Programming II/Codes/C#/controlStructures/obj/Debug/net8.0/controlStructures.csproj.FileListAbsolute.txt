@@ -1,0 +1,28 @@
+C:\Users\andre\OneDrive\Escritorio\Actual Semester\Programming II\C#\controlStructures\bin\Debug\net8.0\controlStructures.exe
+C:\Users\andre\OneDrive\Escritorio\Actual Semester\Programming II\C#\controlStructures\bin\Debug\net8.0\controlStructures.deps.json
+C:\Users\andre\OneDrive\Escritorio\Actual Semester\Programming II\C#\controlStructures\bin\Debug\net8.0\controlStructures.runtimeconfig.json
+C:\Users\andre\OneDrive\Escritorio\Actual Semester\Programming II\C#\controlStructures\bin\Debug\net8.0\controlStructures.dll
+C:\Users\andre\OneDrive\Escritorio\Actual Semester\Programming II\C#\controlStructures\bin\Debug\net8.0\controlStructures.pdb
+C:\Users\andre\OneDrive\Escritorio\Actual Semester\Programming II\C#\controlStructures\obj\Debug\net8.0\controlStructures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\OneDrive\Escritorio\Actual Semester\Programming II\C#\controlStructures\obj\Debug\net8.0\controlStructures.AssemblyInfoInputs.cache
+C:\Users\andre\OneDrive\Escritorio\Actual Semester\Programming II\C#\controlStructures\obj\Debug\net8.0\controlStructures.AssemblyInfo.cs
+C:\Users\andre\OneDrive\Escritorio\Actual Semester\Programming II\C#\controlStructures\obj\Debug\net8.0\controlStructures.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Escritorio\Actual Semester\Programming II\C#\controlStructures\obj\Debug\net8.0\controlStructures.dll
+C:\Users\andre\OneDrive\Escritorio\Actual Semester\Programming II\C#\controlStructures\obj\Debug\net8.0\refint\controlStructures.dll
+C:\Users\andre\OneDrive\Escritorio\Actual Semester\Programming II\C#\controlStructures\obj\Debug\net8.0\controlStructures.pdb
+C:\Users\andre\OneDrive\Escritorio\Actual Semester\Programming II\C#\controlStructures\obj\Debug\net8.0\controlStructures.genruntimeconfig.cache
+C:\Users\andre\OneDrive\Escritorio\Actual Semester\Programming II\C#\controlStructures\obj\Debug\net8.0\ref\controlStructures.dll
+C:\Users\andre\OneDrive\Escritorio\controlStructures\bin\Debug\net8.0\controlStructures.exe
+C:\Users\andre\OneDrive\Escritorio\controlStructures\bin\Debug\net8.0\controlStructures.deps.json
+C:\Users\andre\OneDrive\Escritorio\controlStructures\bin\Debug\net8.0\controlStructures.runtimeconfig.json
+C:\Users\andre\OneDrive\Escritorio\controlStructures\bin\Debug\net8.0\controlStructures.dll
+C:\Users\andre\OneDrive\Escritorio\controlStructures\bin\Debug\net8.0\controlStructures.pdb
+C:\Users\andre\OneDrive\Escritorio\controlStructures\obj\Debug\net8.0\controlStructures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\OneDrive\Escritorio\controlStructures\obj\Debug\net8.0\controlStructures.AssemblyInfoInputs.cache
+C:\Users\andre\OneDrive\Escritorio\controlStructures\obj\Debug\net8.0\controlStructures.AssemblyInfo.cs
+C:\Users\andre\OneDrive\Escritorio\controlStructures\obj\Debug\net8.0\controlStructures.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Escritorio\controlStructures\obj\Debug\net8.0\controlStructures.dll
+C:\Users\andre\OneDrive\Escritorio\controlStructures\obj\Debug\net8.0\refint\controlStructures.dll
+C:\Users\andre\OneDrive\Escritorio\controlStructures\obj\Debug\net8.0\controlStructures.pdb
+C:\Users\andre\OneDrive\Escritorio\controlStructures\obj\Debug\net8.0\controlStructures.genruntimeconfig.cache
+C:\Users\andre\OneDrive\Escritorio\controlStructures\obj\Debug\net8.0\ref\controlStructures.dll
