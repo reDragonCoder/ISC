@@ -1,3 +1,4 @@
+// AUthor: reDragonCoder
 //POO  funciones miembro static y sobrecarga de funciones static
 
 #include<iostream>

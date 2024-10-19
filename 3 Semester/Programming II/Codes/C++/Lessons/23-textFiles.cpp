@@ -1,4 +1,4 @@
-//CESAR ANDRES ZULETA MALANCO - ID: 300077
+// Author: reDragonCoder
 //MANEJO DE ARCHIVOS CON POO
 
 #include <iostream>

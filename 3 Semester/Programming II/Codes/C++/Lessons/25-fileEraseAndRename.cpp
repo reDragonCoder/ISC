@@ -1,4 +1,3 @@
-
 #include <iostream>
 #include <cstdlib>
 //autor: Georgina Salazar Partida

@@ -1,3 +1,4 @@
+// Author: reDragonCoder
 //Sobrecarga del operador relacional == y !=
 
 #include <iostream>

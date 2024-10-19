@@ -1,4 +1,4 @@
-//CESAR ANDRES ZULETA MALANCO
+// Author: reDragonCoder
 //MANEJO DE ARCHIVOS DE TEXTO POR CAMPO
 
 #include <iostream>

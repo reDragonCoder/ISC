@@ -1,5 +1,5 @@
+// Author: reDragonCoder
 //sobrecarga operador + ejemplo1
-
 
 #include <iostream>
 using namespace std;

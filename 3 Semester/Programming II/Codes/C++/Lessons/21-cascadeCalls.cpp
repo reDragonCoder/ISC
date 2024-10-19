@@ -1,3 +1,5 @@
+// Author: reDragonCoder
+
 #include <iostream>
 #include <string>
 #include <iomanip>//uso de setfill y setw

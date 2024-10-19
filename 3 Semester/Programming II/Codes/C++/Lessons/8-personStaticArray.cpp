@@ -1,3 +1,5 @@
+// AUthor: reDragonCoder
+
 #include <iostream>
 #define TAM 4
 

@@ -1,3 +1,4 @@
+// Author: reDragonCoder
 //sobrecarga operador de asignacion = 
 //Cuando alguno de los atributos es un puntero
  

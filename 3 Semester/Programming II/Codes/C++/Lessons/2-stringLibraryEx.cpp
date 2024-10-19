@@ -1,3 +1,4 @@
+// AUthor: reDragonCoder
 //STRING LIBRARY EXAMPLE
 
 //LIBRARIES

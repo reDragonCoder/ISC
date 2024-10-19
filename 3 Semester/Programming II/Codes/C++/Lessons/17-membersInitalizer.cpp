@@ -1,3 +1,5 @@
+// AUthor: reDragonCoder
+
 #include <iostream>
 #include <string>
 

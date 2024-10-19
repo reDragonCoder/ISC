@@ -1,4 +1,4 @@
-//CESAR ANDRES ZULETA MALANCO - ID: 300077
+// Author: reDragonCoder
 // ARCHIVOS BINARIOS CON ACCESO SECUENCIAL EN POO (Clases)
 
 #include <iostream>

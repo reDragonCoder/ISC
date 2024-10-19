@@ -1,3 +1,5 @@
+// AUthor: reDragonCoder
+
 #include <iostream>
 
 /*Uso implicito y explicito del apuntador this

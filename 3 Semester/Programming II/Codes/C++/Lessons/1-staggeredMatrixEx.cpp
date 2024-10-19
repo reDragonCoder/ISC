@@ -1,3 +1,4 @@
+// AUthor: reDragonCoder
 //STAGGERED MATRIX EXAMPLE
 
 //LIBRARIES

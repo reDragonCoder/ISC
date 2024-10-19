@@ -1,3 +1,4 @@
+// Author: reDragonCoder
 #include <cstdlib>
 #include <iostream>
 
@@ -6,7 +7,7 @@ using namespace std;
 //Sobrecarga de los operadores unarios ++ --
 //CON FUNCIONES MIEMBRO
 
-/*Las versiones prefijas se sobrecargan de la misma manera que un operador unario,
+/*Las versiones prefijas se sobrecargan de la misma maneraG que un operador unario,
 en cuyo caso no sera necesario colocar argumento alguno. Por otro lado las
 versiones postfijas necesitan un argumento de entrada que es declarado,
 pero generalmente nunca utilizado, solo para que el compilador ubique que
