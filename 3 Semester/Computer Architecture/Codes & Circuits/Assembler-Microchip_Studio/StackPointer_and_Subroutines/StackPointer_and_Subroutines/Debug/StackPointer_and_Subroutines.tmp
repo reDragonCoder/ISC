@@ -1,0 +1,30 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega162"</DEVICE>
+ <WORKING_DIR>C:\Users\andre\OneDrive\Escritorio\StackPointer_and_Subroutines\StackPointer_and_Subroutines\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\andre\OneDrive\Escritorio\StackPointer_and_Subroutines\StackPointer_and_Subroutines\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m162def.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\M162DEF.INC</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\andre\OneDrive\Escritorio\StackPointer_and_Subroutines\StackPointer_and_Subroutines\Debug\StackPointer_and_Subroutines.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>StackPointer_and_Subroutines.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>StackPointer_and_Subroutines.map</FILE>
+  <FILE>StackPointer_and_Subroutines.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <CYCLE><FILE>C:\Users\andre\OneDrive\Escritorio\StackPointer_and_Subroutines\StackPointer_and_Subroutines\main.asm</FILE><LINE>30</LINE></CYCLE>
+  <SUBROUTINE><FILE>C:\Users\andre\OneDrive\Escritorio\StackPointer_and_Subroutines\StackPointer_and_Subroutines\main.asm</FILE><LINE>60</LINE></SUBROUTINE>
+  <L1><FILE>C:\Users\andre\OneDrive\Escritorio\StackPointer_and_Subroutines\StackPointer_and_Subroutines\main.asm</FILE><LINE>65</LINE></L1>
+ </LABELS>
+</ASSEMBLER_INFO>
