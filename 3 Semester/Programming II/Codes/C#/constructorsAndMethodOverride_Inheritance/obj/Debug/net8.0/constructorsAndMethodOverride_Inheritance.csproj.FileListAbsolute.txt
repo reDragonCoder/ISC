@@ -1,0 +1,14 @@
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\constructorsAndMethodOverride_Inheritance\bin\Debug\net8.0\constructorsAndMethodOverride_Inheritance.exe
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\constructorsAndMethodOverride_Inheritance\bin\Debug\net8.0\constructorsAndMethodOverride_Inheritance.deps.json
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\constructorsAndMethodOverride_Inheritance\bin\Debug\net8.0\constructorsAndMethodOverride_Inheritance.runtimeconfig.json
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\constructorsAndMethodOverride_Inheritance\bin\Debug\net8.0\constructorsAndMethodOverride_Inheritance.dll
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\constructorsAndMethodOverride_Inheritance\bin\Debug\net8.0\constructorsAndMethodOverride_Inheritance.pdb
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\constructorsAndMethodOverride_Inheritance\obj\Debug\net8.0\constructorsAndMethodOverride_Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\constructorsAndMethodOverride_Inheritance\obj\Debug\net8.0\constructorsAndMethodOverride_Inheritance.AssemblyInfoInputs.cache
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\constructorsAndMethodOverride_Inheritance\obj\Debug\net8.0\constructorsAndMethodOverride_Inheritance.AssemblyInfo.cs
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\constructorsAndMethodOverride_Inheritance\obj\Debug\net8.0\constructorsAndMethodOverride_Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\constructorsAndMethodOverride_Inheritance\obj\Debug\net8.0\constructorsAndMethodOverride_Inheritance.dll
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\constructorsAndMethodOverride_Inheritance\obj\Debug\net8.0\refint\constructorsAndMethodOverride_Inheritance.dll
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\constructorsAndMethodOverride_Inheritance\obj\Debug\net8.0\constructorsAndMethodOverride_Inheritance.pdb
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\constructorsAndMethodOverride_Inheritance\obj\Debug\net8.0\constructorsAndMethodOverride_Inheritance.genruntimeconfig.cache
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\constructorsAndMethodOverride_Inheritance\obj\Debug\net8.0\ref\constructorsAndMethodOverride_Inheritance.dll

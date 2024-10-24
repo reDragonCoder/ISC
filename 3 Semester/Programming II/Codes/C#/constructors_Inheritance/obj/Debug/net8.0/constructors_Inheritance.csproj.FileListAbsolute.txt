@@ -1,0 +1,28 @@
+C:\Users\andre\OneDrive\Escritorio\Actual Work\constructors_Inheritance\bin\Debug\net8.0\constructors_Inheritance.exe
+C:\Users\andre\OneDrive\Escritorio\Actual Work\constructors_Inheritance\bin\Debug\net8.0\constructors_Inheritance.deps.json
+C:\Users\andre\OneDrive\Escritorio\Actual Work\constructors_Inheritance\bin\Debug\net8.0\constructors_Inheritance.runtimeconfig.json
+C:\Users\andre\OneDrive\Escritorio\Actual Work\constructors_Inheritance\bin\Debug\net8.0\constructors_Inheritance.dll
+C:\Users\andre\OneDrive\Escritorio\Actual Work\constructors_Inheritance\bin\Debug\net8.0\constructors_Inheritance.pdb
+C:\Users\andre\OneDrive\Escritorio\Actual Work\constructors_Inheritance\obj\Debug\net8.0\constructors_Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\OneDrive\Escritorio\Actual Work\constructors_Inheritance\obj\Debug\net8.0\constructors_Inheritance.AssemblyInfoInputs.cache
+C:\Users\andre\OneDrive\Escritorio\Actual Work\constructors_Inheritance\obj\Debug\net8.0\constructors_Inheritance.AssemblyInfo.cs
+C:\Users\andre\OneDrive\Escritorio\Actual Work\constructors_Inheritance\obj\Debug\net8.0\constructors_Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Escritorio\Actual Work\constructors_Inheritance\obj\Debug\net8.0\constructors_Inheritance.dll
+C:\Users\andre\OneDrive\Escritorio\Actual Work\constructors_Inheritance\obj\Debug\net8.0\refint\constructors_Inheritance.dll
+C:\Users\andre\OneDrive\Escritorio\Actual Work\constructors_Inheritance\obj\Debug\net8.0\constructors_Inheritance.pdb
+C:\Users\andre\OneDrive\Escritorio\Actual Work\constructors_Inheritance\obj\Debug\net8.0\constructors_Inheritance.genruntimeconfig.cache
+C:\Users\andre\OneDrive\Escritorio\Actual Work\constructors_Inheritance\obj\Debug\net8.0\ref\constructors_Inheritance.dll
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\constructors_Inheritance\bin\Debug\net8.0\constructors_Inheritance.exe
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\constructors_Inheritance\bin\Debug\net8.0\constructors_Inheritance.deps.json
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\constructors_Inheritance\bin\Debug\net8.0\constructors_Inheritance.runtimeconfig.json
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\constructors_Inheritance\bin\Debug\net8.0\constructors_Inheritance.dll
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\constructors_Inheritance\bin\Debug\net8.0\constructors_Inheritance.pdb
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\constructors_Inheritance\obj\Debug\net8.0\constructors_Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\constructors_Inheritance\obj\Debug\net8.0\constructors_Inheritance.AssemblyInfoInputs.cache
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\constructors_Inheritance\obj\Debug\net8.0\constructors_Inheritance.AssemblyInfo.cs
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\constructors_Inheritance\obj\Debug\net8.0\constructors_Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\constructors_Inheritance\obj\Debug\net8.0\constructors_Inheritance.dll
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\constructors_Inheritance\obj\Debug\net8.0\refint\constructors_Inheritance.dll
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\constructors_Inheritance\obj\Debug\net8.0\constructors_Inheritance.pdb
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\constructors_Inheritance\obj\Debug\net8.0\constructors_Inheritance.genruntimeconfig.cache
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\constructors_Inheritance\obj\Debug\net8.0\ref\constructors_Inheritance.dll

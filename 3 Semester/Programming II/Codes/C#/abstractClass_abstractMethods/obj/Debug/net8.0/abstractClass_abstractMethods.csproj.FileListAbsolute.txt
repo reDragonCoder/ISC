@@ -1,0 +1,14 @@
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\abstractClass_abstractMethods\bin\Debug\net8.0\abstractClass_abstractMethods.exe
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\abstractClass_abstractMethods\bin\Debug\net8.0\abstractClass_abstractMethods.deps.json
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\abstractClass_abstractMethods\bin\Debug\net8.0\abstractClass_abstractMethods.runtimeconfig.json
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\abstractClass_abstractMethods\bin\Debug\net8.0\abstractClass_abstractMethods.dll
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\abstractClass_abstractMethods\bin\Debug\net8.0\abstractClass_abstractMethods.pdb
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\abstractClass_abstractMethods\obj\Debug\net8.0\abstractClass_abstractMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\abstractClass_abstractMethods\obj\Debug\net8.0\abstractClass_abstractMethods.AssemblyInfoInputs.cache
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\abstractClass_abstractMethods\obj\Debug\net8.0\abstractClass_abstractMethods.AssemblyInfo.cs
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\abstractClass_abstractMethods\obj\Debug\net8.0\abstractClass_abstractMethods.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\abstractClass_abstractMethods\obj\Debug\net8.0\abstractClass_abstractMethods.dll
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\abstractClass_abstractMethods\obj\Debug\net8.0\refint\abstractClass_abstractMethods.dll
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\abstractClass_abstractMethods\obj\Debug\net8.0\abstractClass_abstractMethods.pdb
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\abstractClass_abstractMethods\obj\Debug\net8.0\abstractClass_abstractMethods.genruntimeconfig.cache
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\abstractClass_abstractMethods\obj\Debug\net8.0\ref\abstractClass_abstractMethods.dll

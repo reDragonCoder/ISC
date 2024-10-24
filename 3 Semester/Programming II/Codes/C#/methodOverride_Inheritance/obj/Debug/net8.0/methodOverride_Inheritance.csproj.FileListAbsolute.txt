@@ -1,0 +1,28 @@
+C:\Users\andre\OneDrive\Escritorio\Actual Work\methodOverride_Inheritance\bin\Debug\net8.0\methodOverride_Inheritance.exe
+C:\Users\andre\OneDrive\Escritorio\Actual Work\methodOverride_Inheritance\bin\Debug\net8.0\methodOverride_Inheritance.deps.json
+C:\Users\andre\OneDrive\Escritorio\Actual Work\methodOverride_Inheritance\bin\Debug\net8.0\methodOverride_Inheritance.runtimeconfig.json
+C:\Users\andre\OneDrive\Escritorio\Actual Work\methodOverride_Inheritance\bin\Debug\net8.0\methodOverride_Inheritance.dll
+C:\Users\andre\OneDrive\Escritorio\Actual Work\methodOverride_Inheritance\bin\Debug\net8.0\methodOverride_Inheritance.pdb
+C:\Users\andre\OneDrive\Escritorio\Actual Work\methodOverride_Inheritance\obj\Debug\net8.0\methodOverride_Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\OneDrive\Escritorio\Actual Work\methodOverride_Inheritance\obj\Debug\net8.0\methodOverride_Inheritance.AssemblyInfoInputs.cache
+C:\Users\andre\OneDrive\Escritorio\Actual Work\methodOverride_Inheritance\obj\Debug\net8.0\methodOverride_Inheritance.AssemblyInfo.cs
+C:\Users\andre\OneDrive\Escritorio\Actual Work\methodOverride_Inheritance\obj\Debug\net8.0\methodOverride_Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Escritorio\Actual Work\methodOverride_Inheritance\obj\Debug\net8.0\methodOverride_Inheritance.dll
+C:\Users\andre\OneDrive\Escritorio\Actual Work\methodOverride_Inheritance\obj\Debug\net8.0\refint\methodOverride_Inheritance.dll
+C:\Users\andre\OneDrive\Escritorio\Actual Work\methodOverride_Inheritance\obj\Debug\net8.0\methodOverride_Inheritance.pdb
+C:\Users\andre\OneDrive\Escritorio\Actual Work\methodOverride_Inheritance\obj\Debug\net8.0\methodOverride_Inheritance.genruntimeconfig.cache
+C:\Users\andre\OneDrive\Escritorio\Actual Work\methodOverride_Inheritance\obj\Debug\net8.0\ref\methodOverride_Inheritance.dll
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\methodOverride_Inheritance\bin\Debug\net8.0\methodOverride_Inheritance.exe
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\methodOverride_Inheritance\bin\Debug\net8.0\methodOverride_Inheritance.deps.json
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\methodOverride_Inheritance\bin\Debug\net8.0\methodOverride_Inheritance.runtimeconfig.json
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\methodOverride_Inheritance\bin\Debug\net8.0\methodOverride_Inheritance.dll
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\methodOverride_Inheritance\bin\Debug\net8.0\methodOverride_Inheritance.pdb
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\methodOverride_Inheritance\obj\Debug\net8.0\methodOverride_Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\methodOverride_Inheritance\obj\Debug\net8.0\methodOverride_Inheritance.AssemblyInfoInputs.cache
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\methodOverride_Inheritance\obj\Debug\net8.0\methodOverride_Inheritance.AssemblyInfo.cs
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\methodOverride_Inheritance\obj\Debug\net8.0\methodOverride_Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\methodOverride_Inheritance\obj\Debug\net8.0\methodOverride_Inheritance.dll
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\methodOverride_Inheritance\obj\Debug\net8.0\refint\methodOverride_Inheritance.dll
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\methodOverride_Inheritance\obj\Debug\net8.0\methodOverride_Inheritance.pdb
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\methodOverride_Inheritance\obj\Debug\net8.0\methodOverride_Inheritance.genruntimeconfig.cache
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\methodOverride_Inheritance\obj\Debug\net8.0\ref\methodOverride_Inheritance.dll
