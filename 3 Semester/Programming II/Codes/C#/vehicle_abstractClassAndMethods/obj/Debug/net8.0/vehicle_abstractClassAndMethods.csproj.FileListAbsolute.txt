@@ -1,0 +1,14 @@
+C:\Users\andre\OneDrive\Escritorio\vehicle_abstractClassAndMethods\bin\Debug\net8.0\vehicle_abstractClassAndMethods.exe
+C:\Users\andre\OneDrive\Escritorio\vehicle_abstractClassAndMethods\bin\Debug\net8.0\vehicle_abstractClassAndMethods.deps.json
+C:\Users\andre\OneDrive\Escritorio\vehicle_abstractClassAndMethods\bin\Debug\net8.0\vehicle_abstractClassAndMethods.runtimeconfig.json
+C:\Users\andre\OneDrive\Escritorio\vehicle_abstractClassAndMethods\bin\Debug\net8.0\vehicle_abstractClassAndMethods.dll
+C:\Users\andre\OneDrive\Escritorio\vehicle_abstractClassAndMethods\bin\Debug\net8.0\vehicle_abstractClassAndMethods.pdb
+C:\Users\andre\OneDrive\Escritorio\vehicle_abstractClassAndMethods\obj\Debug\net8.0\vehicle_abstractClassAndMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\OneDrive\Escritorio\vehicle_abstractClassAndMethods\obj\Debug\net8.0\vehicle_abstractClassAndMethods.AssemblyInfoInputs.cache
+C:\Users\andre\OneDrive\Escritorio\vehicle_abstractClassAndMethods\obj\Debug\net8.0\vehicle_abstractClassAndMethods.AssemblyInfo.cs
+C:\Users\andre\OneDrive\Escritorio\vehicle_abstractClassAndMethods\obj\Debug\net8.0\vehicle_abstractClassAndMethods.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Escritorio\vehicle_abstractClassAndMethods\obj\Debug\net8.0\vehicle_abstractClassAndMethods.dll
+C:\Users\andre\OneDrive\Escritorio\vehicle_abstractClassAndMethods\obj\Debug\net8.0\refint\vehicle_abstractClassAndMethods.dll
+C:\Users\andre\OneDrive\Escritorio\vehicle_abstractClassAndMethods\obj\Debug\net8.0\vehicle_abstractClassAndMethods.pdb
+C:\Users\andre\OneDrive\Escritorio\vehicle_abstractClassAndMethods\obj\Debug\net8.0\vehicle_abstractClassAndMethods.genruntimeconfig.cache
+C:\Users\andre\OneDrive\Escritorio\vehicle_abstractClassAndMethods\obj\Debug\net8.0\ref\vehicle_abstractClassAndMethods.dll

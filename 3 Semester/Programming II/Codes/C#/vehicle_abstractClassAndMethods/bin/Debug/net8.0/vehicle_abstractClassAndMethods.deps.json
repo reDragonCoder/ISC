@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "vehicle_abstractClassAndMethods/1.0.0": {
+        "runtime": {
+          "vehicle_abstractClassAndMethods.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "vehicle_abstractClassAndMethods/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\andre\OneDrive\Escritorio\vehicle_ConstructorsAndOverride\bin\Debug\net8.0\vehicle_ConstructorsAndOverride.exe
+C:\Users\andre\OneDrive\Escritorio\vehicle_ConstructorsAndOverride\bin\Debug\net8.0\vehicle_ConstructorsAndOverride.deps.json
+C:\Users\andre\OneDrive\Escritorio\vehicle_ConstructorsAndOverride\bin\Debug\net8.0\vehicle_ConstructorsAndOverride.runtimeconfig.json
+C:\Users\andre\OneDrive\Escritorio\vehicle_ConstructorsAndOverride\bin\Debug\net8.0\vehicle_ConstructorsAndOverride.dll
+C:\Users\andre\OneDrive\Escritorio\vehicle_ConstructorsAndOverride\bin\Debug\net8.0\vehicle_ConstructorsAndOverride.pdb
+C:\Users\andre\OneDrive\Escritorio\vehicle_ConstructorsAndOverride\obj\Debug\net8.0\vehicle_ConstructorsAndOverride.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\OneDrive\Escritorio\vehicle_ConstructorsAndOverride\obj\Debug\net8.0\vehicle_ConstructorsAndOverride.AssemblyInfoInputs.cache
+C:\Users\andre\OneDrive\Escritorio\vehicle_ConstructorsAndOverride\obj\Debug\net8.0\vehicle_ConstructorsAndOverride.AssemblyInfo.cs
+C:\Users\andre\OneDrive\Escritorio\vehicle_ConstructorsAndOverride\obj\Debug\net8.0\vehicle_ConstructorsAndOverride.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Escritorio\vehicle_ConstructorsAndOverride\obj\Debug\net8.0\vehicle_ConstructorsAndOverride.dll
+C:\Users\andre\OneDrive\Escritorio\vehicle_ConstructorsAndOverride\obj\Debug\net8.0\refint\vehicle_ConstructorsAndOverride.dll
+C:\Users\andre\OneDrive\Escritorio\vehicle_ConstructorsAndOverride\obj\Debug\net8.0\vehicle_ConstructorsAndOverride.pdb
+C:\Users\andre\OneDrive\Escritorio\vehicle_ConstructorsAndOverride\obj\Debug\net8.0\vehicle_ConstructorsAndOverride.genruntimeconfig.cache
+C:\Users\andre\OneDrive\Escritorio\vehicle_ConstructorsAndOverride\obj\Debug\net8.0\ref\vehicle_ConstructorsAndOverride.dll
