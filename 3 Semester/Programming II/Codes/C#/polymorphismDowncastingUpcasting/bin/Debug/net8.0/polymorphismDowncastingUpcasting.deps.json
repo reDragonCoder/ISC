@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "polymorphismDowncastingUpcasting/1.0.0": {
+        "runtime": {
+          "polymorphismDowncastingUpcasting.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "polymorphismDowncastingUpcasting/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
