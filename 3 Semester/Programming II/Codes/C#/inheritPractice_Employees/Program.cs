@@ -4,7 +4,7 @@ class Program{
     static void Main(string[] args){
         /* DATA */
         Console.ForegroundColor=ConsoleColor.DarkMagenta;
-        Console.WriteLine("Cesar Andres Zuleta Malanco\n");
+        Console.WriteLine("reDragonCoder\n");
         Console.ResetColor();
 
         //variables
