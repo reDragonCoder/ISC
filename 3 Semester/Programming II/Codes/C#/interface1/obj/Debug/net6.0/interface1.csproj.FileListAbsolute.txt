@@ -1,0 +1,43 @@
+D:\mispracticasc#\interface1\bin\Debug\net6.0\interface1.exe
+D:\mispracticasc#\interface1\bin\Debug\net6.0\interface1.deps.json
+D:\mispracticasc#\interface1\bin\Debug\net6.0\interface1.runtimeconfig.json
+D:\mispracticasc#\interface1\bin\Debug\net6.0\interface1.dll
+D:\mispracticasc#\interface1\bin\Debug\net6.0\interface1.pdb
+D:\mispracticasc#\interface1\obj\Debug\net6.0\interface1.csproj.AssemblyReference.cache
+D:\mispracticasc#\interface1\obj\Debug\net6.0\interface1.GeneratedMSBuildEditorConfig.editorconfig
+D:\mispracticasc#\interface1\obj\Debug\net6.0\interface1.AssemblyInfoInputs.cache
+D:\mispracticasc#\interface1\obj\Debug\net6.0\interface1.AssemblyInfo.cs
+D:\mispracticasc#\interface1\obj\Debug\net6.0\interface1.csproj.CoreCompileInputs.cache
+D:\mispracticasc#\interface1\obj\Debug\net6.0\interface1.dll
+D:\mispracticasc#\interface1\obj\Debug\net6.0\refint\interface1.dll
+D:\mispracticasc#\interface1\obj\Debug\net6.0\interface1.pdb
+D:\mispracticasc#\interface1\obj\Debug\net6.0\interface1.genruntimeconfig.cache
+D:\mispracticasc#\interface1\obj\Debug\net6.0\ref\interface1.dll
+C:\Users\andre\OneDrive\Escritorio\Actual Work\interface1\bin\Debug\net6.0\interface1.exe
+C:\Users\andre\OneDrive\Escritorio\Actual Work\interface1\bin\Debug\net6.0\interface1.deps.json
+C:\Users\andre\OneDrive\Escritorio\Actual Work\interface1\bin\Debug\net6.0\interface1.runtimeconfig.json
+C:\Users\andre\OneDrive\Escritorio\Actual Work\interface1\bin\Debug\net6.0\interface1.dll
+C:\Users\andre\OneDrive\Escritorio\Actual Work\interface1\bin\Debug\net6.0\interface1.pdb
+C:\Users\andre\OneDrive\Escritorio\Actual Work\interface1\obj\Debug\net6.0\interface1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\OneDrive\Escritorio\Actual Work\interface1\obj\Debug\net6.0\interface1.AssemblyInfoInputs.cache
+C:\Users\andre\OneDrive\Escritorio\Actual Work\interface1\obj\Debug\net6.0\interface1.AssemblyInfo.cs
+C:\Users\andre\OneDrive\Escritorio\Actual Work\interface1\obj\Debug\net6.0\interface1.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Escritorio\Actual Work\interface1\obj\Debug\net6.0\interface1.dll
+C:\Users\andre\OneDrive\Escritorio\Actual Work\interface1\obj\Debug\net6.0\refint\interface1.dll
+C:\Users\andre\OneDrive\Escritorio\Actual Work\interface1\obj\Debug\net6.0\interface1.pdb
+C:\Users\andre\OneDrive\Escritorio\Actual Work\interface1\obj\Debug\net6.0\interface1.genruntimeconfig.cache
+C:\Users\andre\OneDrive\Escritorio\Actual Work\interface1\obj\Debug\net6.0\ref\interface1.dll
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\interface1\bin\Debug\net6.0\interface1.exe
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\interface1\bin\Debug\net6.0\interface1.deps.json
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\interface1\bin\Debug\net6.0\interface1.runtimeconfig.json
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\interface1\bin\Debug\net6.0\interface1.dll
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\interface1\bin\Debug\net6.0\interface1.pdb
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\interface1\obj\Debug\net6.0\interface1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\interface1\obj\Debug\net6.0\interface1.AssemblyInfoInputs.cache
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\interface1\obj\Debug\net6.0\interface1.AssemblyInfo.cs
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\interface1\obj\Debug\net6.0\interface1.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\interface1\obj\Debug\net6.0\interface1.dll
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\interface1\obj\Debug\net6.0\refint\interface1.dll
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\interface1\obj\Debug\net6.0\interface1.pdb
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\interface1\obj\Debug\net6.0\interface1.genruntimeconfig.cache
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\interface1\obj\Debug\net6.0\ref\interface1.dll
