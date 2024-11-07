@@ -1,4 +1,5 @@
 // Author: reDragonCoder
+// Breadth-First Search in a graph using adjency matrix
 
 //LIBRARIES
 #include <iostream>
