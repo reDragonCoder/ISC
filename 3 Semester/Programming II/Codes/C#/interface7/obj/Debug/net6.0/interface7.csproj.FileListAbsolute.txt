@@ -1,0 +1,29 @@
+D:\mispracticasc#\interface7\bin\Debug\net6.0\interface7.exe
+D:\mispracticasc#\interface7\bin\Debug\net6.0\interface7.deps.json
+D:\mispracticasc#\interface7\bin\Debug\net6.0\interface7.runtimeconfig.json
+D:\mispracticasc#\interface7\bin\Debug\net6.0\interface7.dll
+D:\mispracticasc#\interface7\bin\Debug\net6.0\interface7.pdb
+D:\mispracticasc#\interface7\obj\Debug\net6.0\interface7.csproj.AssemblyReference.cache
+D:\mispracticasc#\interface7\obj\Debug\net6.0\interface7.GeneratedMSBuildEditorConfig.editorconfig
+D:\mispracticasc#\interface7\obj\Debug\net6.0\interface7.AssemblyInfoInputs.cache
+D:\mispracticasc#\interface7\obj\Debug\net6.0\interface7.AssemblyInfo.cs
+D:\mispracticasc#\interface7\obj\Debug\net6.0\interface7.csproj.CoreCompileInputs.cache
+D:\mispracticasc#\interface7\obj\Debug\net6.0\interface7.dll
+D:\mispracticasc#\interface7\obj\Debug\net6.0\refint\interface7.dll
+D:\mispracticasc#\interface7\obj\Debug\net6.0\interface7.pdb
+D:\mispracticasc#\interface7\obj\Debug\net6.0\interface7.genruntimeconfig.cache
+D:\mispracticasc#\interface7\obj\Debug\net6.0\ref\interface7.dll
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\interface7\bin\Debug\net6.0\interface7.exe
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\interface7\bin\Debug\net6.0\interface7.deps.json
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\interface7\bin\Debug\net6.0\interface7.runtimeconfig.json
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\interface7\bin\Debug\net6.0\interface7.dll
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\interface7\bin\Debug\net6.0\interface7.pdb
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\interface7\obj\Debug\net6.0\interface7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\interface7\obj\Debug\net6.0\interface7.AssemblyInfoInputs.cache
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\interface7\obj\Debug\net6.0\interface7.AssemblyInfo.cs
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\interface7\obj\Debug\net6.0\interface7.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\interface7\obj\Debug\net6.0\interface7.dll
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\interface7\obj\Debug\net6.0\refint\interface7.dll
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\interface7\obj\Debug\net6.0\interface7.pdb
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\interface7\obj\Debug\net6.0\interface7.genruntimeconfig.cache
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\interface7\obj\Debug\net6.0\ref\interface7.dll

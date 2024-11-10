@@ -1,0 +1,14 @@
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\inheritanceAndInterfacesExample\obj\Debug\net8.0\inheritanceAndInterfacesExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\inheritanceAndInterfacesExample\obj\Debug\net8.0\inheritanceAndInterfacesExample.AssemblyInfoInputs.cache
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\inheritanceAndInterfacesExample\obj\Debug\net8.0\inheritanceAndInterfacesExample.AssemblyInfo.cs
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\inheritanceAndInterfacesExample\obj\Debug\net8.0\inheritanceAndInterfacesExample.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\inheritanceAndInterfacesExample\bin\Debug\net8.0\inheritanceAndInterfacesExample.exe
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\inheritanceAndInterfacesExample\bin\Debug\net8.0\inheritanceAndInterfacesExample.deps.json
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\inheritanceAndInterfacesExample\bin\Debug\net8.0\inheritanceAndInterfacesExample.runtimeconfig.json
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\inheritanceAndInterfacesExample\bin\Debug\net8.0\inheritanceAndInterfacesExample.dll
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\inheritanceAndInterfacesExample\bin\Debug\net8.0\inheritanceAndInterfacesExample.pdb
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\inheritanceAndInterfacesExample\obj\Debug\net8.0\inheritanceAndInterfacesExample.dll
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\inheritanceAndInterfacesExample\obj\Debug\net8.0\refint\inheritanceAndInterfacesExample.dll
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\inheritanceAndInterfacesExample\obj\Debug\net8.0\inheritanceAndInterfacesExample.pdb
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\inheritanceAndInterfacesExample\obj\Debug\net8.0\inheritanceAndInterfacesExample.genruntimeconfig.cache
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\inheritanceAndInterfacesExample\obj\Debug\net8.0\ref\inheritanceAndInterfacesExample.dll
