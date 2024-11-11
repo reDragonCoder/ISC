@@ -1,7 +1,7 @@
 # Numerical Methods Course, August-December 2024
 # Program for Fixed-Point Method
 # Date: November 10, 2024
-# Author: Cesar Andres Zuleta Malanco
+# Autor: reDragonCoder
 
 # Useful to obtain a solution of x=g(x) given an initial 
 # approximation p0

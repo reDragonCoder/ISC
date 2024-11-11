@@ -1,7 +1,7 @@
 # Numerical Methods Course, August-December 2024
 # Program for Horner Method
 # Date: November 10, 2024
-# Author: Cesar Andres Zuleta Malanco
+# Autor: reDragonCoder
 
 # Implementation of the Horner Method to evaluate polynomials of the form
 # p(x)=anx^n+an-1x^n-1+...+a2x^2+a1x+a0 as well as its derivative p'(x) at 

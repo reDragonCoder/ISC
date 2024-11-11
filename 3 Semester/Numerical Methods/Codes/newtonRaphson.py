@@ -1,7 +1,7 @@
 # Numerical Methods Course, August-December 2024
 # Program for Newton-Raphson method
 # Date: November 10, 2024
-# Author: Cesar Andres Zuleta Malanco
+# Autor: reDragonCoder
 
 # Useful to find a solution f(x)=0 in an interval [a, b], given an initial 
 # approximation p0 E (a, b) with the assumptions that f(x) is continuous in 

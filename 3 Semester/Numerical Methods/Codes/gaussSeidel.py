@@ -1,7 +1,7 @@
 # Numerical Methods Course, August-December 2024
 # Program for Gauss-Seidel Method
 # Date: November 10, 2024
-# Author: Cesar Andres Zuleta Malanco
+# Autor: reDragonCoder
 
 # Useful to solve the quadratic linear system Ax=b
 
