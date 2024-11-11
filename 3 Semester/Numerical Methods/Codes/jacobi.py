@@ -1,7 +1,7 @@
 # Numerical Methods Course, August-December 2024
 # Program for Jacobi Method
 # Date: October 18, 2024
-# Author: reDragonCoder
+# Author: Cesar Andres Zuleta Malanco
 
 # Implementation of the Jacobi Method to solve
 # quadratic linear systems Ax=b
