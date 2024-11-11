@@ -1,7 +1,7 @@
 # Numerical Methods Course, August-December 2024
 # Program for simple linear regression
 # Date: November 10, 2024
-# Author: Cesar Andres Zuleta Malanco
+# Autor: reDragonCoder
 
 # Useful to estimate the coefficients a0 and a1 in the 
 # simple linear regression model y=a0+a1x+E
