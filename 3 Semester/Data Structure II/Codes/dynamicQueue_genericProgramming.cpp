@@ -1,4 +1,4 @@
-// Author: reDragonCoder
+// CESAR ANDRES ZULETA MALANCO
 
 //LIBRARIES
 #include <iostream>
@@ -6,59 +6,50 @@
 //NAMESPACE
 using namespace std;
 
-// CLASSES
-template <class Type>
-class Node{
-    public:
+//CLASSES
+template <class Type> class Node{
+    public: 
         Type task;
-        Node* next;
-        Node(Type t):task(t), next(NULL){}
+        Node*next;
+        Node(Type t):task(t), next(NULL){} 
 };
 
-template <class Type>
-class Queue {
-    private:
-        Node<Type> *frontQueue; 
-        Node<Type> *backQueue;   
+template <class Type> class Queue{
+    private: 
+        Node<Type> *frontQueue;
+        Node<Type> *backQueue;
         int items;
-
     public:
         Queue():frontQueue(NULL), backQueue(NULL), items(0){}
 
-        inline void push_back(Type x) {
-            Node<Type> *newNode=new Node<Type>(x);
-            if(this->frontQueue==NULL){
-                frontQueue=backQueue=newNode;
+        inline void push_back(Type x){
+            Node<Type> *neweishon=new Node<Type>(x);  
+            if(this->frontQueue==NULL){  
+                frontQueue=backQueue=neweishon;  
             }else{
-                backQueue->next=newNode;
-                backQueue=newNode;
+                backQueue->next=neweishon; 
+                backQueue=neweishon; 
             }
-            this->items++;
+            this->items++; 
         }
 
         inline Type pop_front(){
-            Node<Type> *temp=NULL;
-            if(this->frontQueue!= NULL){
-                temp=this->frontQueue;
-                frontQueue=frontQueue->next;
-                if(frontQueue==NULL){
-                    backQueue=NULL;  
+            Node<Type> *tempo=NULL;
+            if(this->frontQueue!=NULL) {
+                tempo=this->frontQueue;
+                this->frontQueue=frontQueue->next;  
+                if (this->frontQueue==NULL){ 
+                    backQueue=NULL;
                 }
-                Type x=temp->task;
-                delete temp;
                 this->items--;
-                return x;
-            }else{
-                cout<<"Queue is empty";
             }
+            Type x=tempo->task;
+            delete tempo;
+            return x;
         }
 
-        inline Type& front(){
-            if (frontQueue!=NULL) {
-                return frontQueue->task;
-            }else{
-                cout<<"Queue is empty";
-            }
+        inline Type &front(){
+            return frontQueue->task;
         }
 
         inline bool empty(){
@@ -70,19 +61,18 @@ class Queue {
         }
 };
 
-//MAIN
 int main(){
-    Queue<int> queue;
+    Queue <int> queue;
 
     queue.push_back(7);
-    queue.push_back(10);
-    queue.push_back(15);
+    queue.push_back(11);
+    queue.push_back(3);
+    queue.push_back(6);
 
-    cout<<queue.front() << endl; 
-    queue.pop_front();
-    cout<<queue.front() << endl;
-    queue.pop_front();
-    cout<<queue.front() << endl;
-    queue.pop_front();
+    while(!queue.empty()){
+        cout<<queue.front()<<endl;
+        queue.pop_front();
+    }
+
     return 0;
 }
