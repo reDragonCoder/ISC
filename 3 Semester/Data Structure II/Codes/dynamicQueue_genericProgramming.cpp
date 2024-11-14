@@ -1,4 +1,4 @@
-// CESAR ANDRES ZULETA MALANCO
+// Author: reDragonCoder
 
 //LIBRARIES
 #include <iostream>

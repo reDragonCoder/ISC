@@ -1,7 +1,7 @@
 # Numerical Methods Course, August-December 2024
 # Program for simple linear regression
 # Date: November 10, 2024
-# Autor: reDragonCoder
+# Author: reDragonCoder
 
 # Useful to estimate the coefficients a0 and a1 in the 
 # simple linear regression model y=a0+a1x+E
@@ -24,7 +24,7 @@ def get_couples_run_regression():
     print(f"Correlation r coefficient: {r}")
 
 def Regression(n, couples):
-    #Simple linear regression implementation
+    #Simple linear regression
     # Inputs:
         # n -- (xi, yi) couple number 
         # (xi, yi) -- couples for i=1, 2, 3, ..., n
@@ -32,7 +32,7 @@ def Regression(n, couples):
         # a0, a1 -- coefficients
         # r --correlation coefficient
 
-    Sx, Sy, Sxy, Sx_square, Sy_square=0,0,0,0,0
+    Sx, Sy, Sxy, Sx_square, Sy_square,YiMy,SyYi=0,0,0,0,0,0,0
 
     for i in range(n):
         xi, yi=couples[i]
@@ -45,15 +45,17 @@ def Regression(n, couples):
     a1=(n*Sxy-Sx*Sy)/(n*Sx_square-Sx**2)
     a0=(Sy/n)-a1*(Sx/n)
 
+    My=Sy/n;
+    for i in range(n):
+        xi, yi=couples[i]
+        YiMy+=(yi-My)**2
+        temp=a0+a1*xi
+        SyYi+=(yi-temp)**2
 
-    SSy=sqrt((Sy_square-(Sy/n)**2)/(n-1))
-   
-    SSyiX=sqrt(sum((yi-(a0+a1*xi))**2 for xi, yi in couples)/(n-2))
 
-    r_square=((n-1)*SSy**2-(n-2)*SSyiX**2)/((n-1)*SSy**2)
+    r_square=((YiMy-SyYi)/YiMy)
     r=sqrt(r_square)
     
     return a0, a1, r
 
 get_couples_run_regression()
-
