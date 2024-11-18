@@ -1,0 +1,16 @@
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\WinFormsBaseball\WinFormsBaseball\obj\Debug\net9.0-windows\WinFormsBaseball.Player.resources
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\WinFormsBaseball\WinFormsBaseball\obj\Debug\net9.0-windows\WinFormsBaseball.csproj.GenerateResource.cache
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\WinFormsBaseball\WinFormsBaseball\obj\Debug\net9.0-windows\WinFormsBaseball.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\WinFormsBaseball\WinFormsBaseball\obj\Debug\net9.0-windows\WinFormsBaseball.AssemblyInfoInputs.cache
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\WinFormsBaseball\WinFormsBaseball\obj\Debug\net9.0-windows\WinFormsBaseball.AssemblyInfo.cs
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\WinFormsBaseball\WinFormsBaseball\obj\Debug\net9.0-windows\WinFormsBaseball.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\WinFormsBaseball\WinFormsBaseball\bin\Debug\net9.0-windows\WinFormsBaseball.exe
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\WinFormsBaseball\WinFormsBaseball\bin\Debug\net9.0-windows\WinFormsBaseball.deps.json
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\WinFormsBaseball\WinFormsBaseball\bin\Debug\net9.0-windows\WinFormsBaseball.runtimeconfig.json
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\WinFormsBaseball\WinFormsBaseball\bin\Debug\net9.0-windows\WinFormsBaseball.dll
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\WinFormsBaseball\WinFormsBaseball\bin\Debug\net9.0-windows\WinFormsBaseball.pdb
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\WinFormsBaseball\WinFormsBaseball\obj\Debug\net9.0-windows\WinFormsBaseball.dll
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\WinFormsBaseball\WinFormsBaseball\obj\Debug\net9.0-windows\refint\WinFormsBaseball.dll
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\WinFormsBaseball\WinFormsBaseball\obj\Debug\net9.0-windows\WinFormsBaseball.pdb
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\WinFormsBaseball\WinFormsBaseball\obj\Debug\net9.0-windows\WinFormsBaseball.genruntimeconfig.cache
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\WinFormsBaseball\WinFormsBaseball\obj\Debug\net9.0-windows\ref\WinFormsBaseball.dll

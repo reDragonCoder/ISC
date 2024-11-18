@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\andre\\OneDrive\\Escritorio\\Actual Work\\Programming II\\WinFormsMultiplicationTable\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00E5E259-93C4-412E-9DDD-E83F099F0E3B}|WinFormsMultiplicationTable\\WinFormsMultiplicationTable.csproj|c:\\users\\andre\\onedrive\\escritorio\\actual work\\programming ii\\winformsmultiplicationtable\\winformsmultiplicationtable\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{00E5E259-93C4-412E-9DDD-E83F099F0E3B}|WinFormsMultiplicationTable\\WinFormsMultiplicationTable.csproj|solutionrelative:winformsmultiplicationtable\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E5E259-93C4-412E-9DDD-E83F099F0E3B}|WinFormsMultiplicationTable\\WinFormsMultiplicationTable.csproj|c:\\users\\andre\\onedrive\\escritorio\\actual work\\programming ii\\winformsmultiplicationtable\\winformsmultiplicationtable\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E5E259-93C4-412E-9DDD-E83F099F0E3B}|WinFormsMultiplicationTable\\WinFormsMultiplicationTable.csproj|solutionrelative:winformsmultiplicationtable\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Escritorio\\Actual Work\\Programming II\\WinFormsMultiplicationTable\\WinFormsMultiplicationTable\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsMultiplicationTable\\Form1.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Escritorio\\Actual Work\\Programming II\\WinFormsMultiplicationTable\\WinFormsMultiplicationTable\\Form1.cs*",
+              "RelativeToolTip": "WinFormsMultiplicationTable\\Form1.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T21:20:26.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Escritorio\\Actual Work\\Programming II\\WinFormsMultiplicationTable\\WinFormsMultiplicationTable\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsMultiplicationTable\\Form1.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Escritorio\\Actual Work\\Programming II\\WinFormsMultiplicationTable\\WinFormsMultiplicationTable\\Form1.cs [Design]*",
+              "RelativeToolTip": "WinFormsMultiplicationTable\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T21:12:43.363Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

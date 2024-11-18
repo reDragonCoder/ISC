@@ -1,0 +1,16 @@
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\WinFormsNameAge\WinFormsNameAge\bin\Debug\net9.0-windows\WinFormsNameAge.exe
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\WinFormsNameAge\WinFormsNameAge\bin\Debug\net9.0-windows\WinFormsNameAge.deps.json
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\WinFormsNameAge\WinFormsNameAge\bin\Debug\net9.0-windows\WinFormsNameAge.runtimeconfig.json
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\WinFormsNameAge\WinFormsNameAge\bin\Debug\net9.0-windows\WinFormsNameAge.dll
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\WinFormsNameAge\WinFormsNameAge\bin\Debug\net9.0-windows\WinFormsNameAge.pdb
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\WinFormsNameAge\WinFormsNameAge\obj\Debug\net9.0-windows\WinFormsNameAge.Form1.resources
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\WinFormsNameAge\WinFormsNameAge\obj\Debug\net9.0-windows\WinFormsNameAge.csproj.GenerateResource.cache
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\WinFormsNameAge\WinFormsNameAge\obj\Debug\net9.0-windows\WinFormsNameAge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\WinFormsNameAge\WinFormsNameAge\obj\Debug\net9.0-windows\WinFormsNameAge.AssemblyInfoInputs.cache
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\WinFormsNameAge\WinFormsNameAge\obj\Debug\net9.0-windows\WinFormsNameAge.AssemblyInfo.cs
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\WinFormsNameAge\WinFormsNameAge\obj\Debug\net9.0-windows\WinFormsNameAge.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\WinFormsNameAge\WinFormsNameAge\obj\Debug\net9.0-windows\WinFormsNameAge.dll
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\WinFormsNameAge\WinFormsNameAge\obj\Debug\net9.0-windows\refint\WinFormsNameAge.dll
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\WinFormsNameAge\WinFormsNameAge\obj\Debug\net9.0-windows\WinFormsNameAge.pdb
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\WinFormsNameAge\WinFormsNameAge\obj\Debug\net9.0-windows\WinFormsNameAge.genruntimeconfig.cache
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\WinFormsNameAge\WinFormsNameAge\obj\Debug\net9.0-windows\ref\WinFormsNameAge.dll
