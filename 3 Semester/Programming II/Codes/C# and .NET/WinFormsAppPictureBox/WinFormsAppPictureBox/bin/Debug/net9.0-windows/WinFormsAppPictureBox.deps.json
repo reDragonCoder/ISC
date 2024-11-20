@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "WinFormsAppPictureBox/1.0.0": {
+        "runtime": {
+          "WinFormsAppPictureBox.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WinFormsAppPictureBox/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

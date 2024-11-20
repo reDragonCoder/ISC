@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\andre\\OneDrive\\Escritorio\\Actual Work\\Programming II\\WinFormsAppPictureBox\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{768AB696-287E-497F-9DCA-432AAB207141}|WinFormsAppPictureBox\\WinFormsAppPictureBox.csproj|c:\\users\\andre\\onedrive\\escritorio\\actual work\\programming ii\\winformsapppicturebox\\winformsapppicturebox\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{768AB696-287E-497F-9DCA-432AAB207141}|WinFormsAppPictureBox\\WinFormsAppPictureBox.csproj|solutionrelative:winformsapppicturebox\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{768AB696-287E-497F-9DCA-432AAB207141}|WinFormsAppPictureBox\\WinFormsAppPictureBox.csproj|c:\\users\\andre\\onedrive\\escritorio\\actual work\\programming ii\\winformsapppicturebox\\winformsapppicturebox\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{768AB696-287E-497F-9DCA-432AAB207141}|WinFormsAppPictureBox\\WinFormsAppPictureBox.csproj|solutionrelative:winformsapppicturebox\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Escritorio\\Actual Work\\Programming II\\WinFormsAppPictureBox\\WinFormsAppPictureBox\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsAppPictureBox\\Form1.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Escritorio\\Actual Work\\Programming II\\WinFormsAppPictureBox\\WinFormsAppPictureBox\\Form1.cs",
+              "RelativeToolTip": "WinFormsAppPictureBox\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T03:33:11.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Escritorio\\Actual Work\\Programming II\\WinFormsAppPictureBox\\WinFormsAppPictureBox\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsAppPictureBox\\Form1.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Escritorio\\Actual Work\\Programming II\\WinFormsAppPictureBox\\WinFormsAppPictureBox\\Form1.cs [Design]",
+              "RelativeToolTip": "WinFormsAppPictureBox\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T03:29:41.856Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

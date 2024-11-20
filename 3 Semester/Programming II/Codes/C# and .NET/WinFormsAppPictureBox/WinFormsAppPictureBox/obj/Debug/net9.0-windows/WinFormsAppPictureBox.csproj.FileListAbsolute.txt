@@ -1,0 +1,17 @@
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\WinFormsAppPictureBox\WinFormsAppPictureBox\bin\Debug\net9.0-windows\WinFormsAppPictureBox.exe
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\WinFormsAppPictureBox\WinFormsAppPictureBox\bin\Debug\net9.0-windows\WinFormsAppPictureBox.deps.json
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\WinFormsAppPictureBox\WinFormsAppPictureBox\bin\Debug\net9.0-windows\WinFormsAppPictureBox.runtimeconfig.json
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\WinFormsAppPictureBox\WinFormsAppPictureBox\bin\Debug\net9.0-windows\WinFormsAppPictureBox.dll
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\WinFormsAppPictureBox\WinFormsAppPictureBox\bin\Debug\net9.0-windows\WinFormsAppPictureBox.pdb
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\WinFormsAppPictureBox\WinFormsAppPictureBox\obj\Debug\net9.0-windows\WinFormsAppPictureBox.Form1.resources
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\WinFormsAppPictureBox\WinFormsAppPictureBox\obj\Debug\net9.0-windows\WinFormsAppPictureBox.csproj.GenerateResource.cache
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\WinFormsAppPictureBox\WinFormsAppPictureBox\obj\Debug\net9.0-windows\WinFormsAppPictureBox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\WinFormsAppPictureBox\WinFormsAppPictureBox\obj\Debug\net9.0-windows\WinFormsAppPictureBox.AssemblyInfoInputs.cache
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\WinFormsAppPictureBox\WinFormsAppPictureBox\obj\Debug\net9.0-windows\WinFormsAppPictureBox.AssemblyInfo.cs
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\WinFormsAppPictureBox\WinFormsAppPictureBox\obj\Debug\net9.0-windows\WinFormsAppPictureBox.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\WinFormsAppPictureBox\WinFormsAppPictureBox\obj\Debug\net9.0-windows\WinFormsAppPictureBox.dll
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\WinFormsAppPictureBox\WinFormsAppPictureBox\obj\Debug\net9.0-windows\refint\WinFormsAppPictureBox.dll
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\WinFormsAppPictureBox\WinFormsAppPictureBox\obj\Debug\net9.0-windows\WinFormsAppPictureBox.pdb
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\WinFormsAppPictureBox\WinFormsAppPictureBox\obj\Debug\net9.0-windows\WinFormsAppPictureBox.genruntimeconfig.cache
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\WinFormsAppPictureBox\WinFormsAppPictureBox\obj\Debug\net9.0-windows\ref\WinFormsAppPictureBox.dll
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\WinFormsAppPictureBox\WinFormsAppPictureBox\obj\Debug\net9.0-windows\WinFormsAppPictureBox.Properties.Resources.resources
