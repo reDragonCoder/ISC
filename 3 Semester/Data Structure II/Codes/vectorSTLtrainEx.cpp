@@ -1,4 +1,4 @@
-// AUthor: reDragonCoder
+// Author: reDragonCoder
 
 //LIBRARIES
 #include <iostream>
