@@ -1,0 +1,17 @@
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\WinFormsMultipleImagesPictureBox\WinFormsMultipleImagesPictureBox\bin\Debug\net9.0-windows\WinFormsMultipleImagesPictureBox.exe
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\WinFormsMultipleImagesPictureBox\WinFormsMultipleImagesPictureBox\bin\Debug\net9.0-windows\WinFormsMultipleImagesPictureBox.deps.json
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\WinFormsMultipleImagesPictureBox\WinFormsMultipleImagesPictureBox\bin\Debug\net9.0-windows\WinFormsMultipleImagesPictureBox.runtimeconfig.json
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\WinFormsMultipleImagesPictureBox\WinFormsMultipleImagesPictureBox\bin\Debug\net9.0-windows\WinFormsMultipleImagesPictureBox.dll
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\WinFormsMultipleImagesPictureBox\WinFormsMultipleImagesPictureBox\bin\Debug\net9.0-windows\WinFormsMultipleImagesPictureBox.pdb
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\WinFormsMultipleImagesPictureBox\WinFormsMultipleImagesPictureBox\obj\Debug\net9.0-windows\WinFormsMultipleImagesPictureBox.Form1.resources
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\WinFormsMultipleImagesPictureBox\WinFormsMultipleImagesPictureBox\obj\Debug\net9.0-windows\WinFormsMultipleImagesPictureBox.Properties.Resources.resources
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\WinFormsMultipleImagesPictureBox\WinFormsMultipleImagesPictureBox\obj\Debug\net9.0-windows\WinFormsMultipleImagesPictureBox.csproj.GenerateResource.cache
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\WinFormsMultipleImagesPictureBox\WinFormsMultipleImagesPictureBox\obj\Debug\net9.0-windows\WinFormsMultipleImagesPictureBox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\WinFormsMultipleImagesPictureBox\WinFormsMultipleImagesPictureBox\obj\Debug\net9.0-windows\WinFormsMultipleImagesPictureBox.AssemblyInfoInputs.cache
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\WinFormsMultipleImagesPictureBox\WinFormsMultipleImagesPictureBox\obj\Debug\net9.0-windows\WinFormsMultipleImagesPictureBox.AssemblyInfo.cs
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\WinFormsMultipleImagesPictureBox\WinFormsMultipleImagesPictureBox\obj\Debug\net9.0-windows\WinFormsMultipleImagesPictureBox.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\WinFormsMultipleImagesPictureBox\WinFormsMultipleImagesPictureBox\obj\Debug\net9.0-windows\WinFormsMultipleImagesPictureBox.dll
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\WinFormsMultipleImagesPictureBox\WinFormsMultipleImagesPictureBox\obj\Debug\net9.0-windows\refint\WinFormsMultipleImagesPictureBox.dll
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\WinFormsMultipleImagesPictureBox\WinFormsMultipleImagesPictureBox\obj\Debug\net9.0-windows\WinFormsMultipleImagesPictureBox.pdb
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\WinFormsMultipleImagesPictureBox\WinFormsMultipleImagesPictureBox\obj\Debug\net9.0-windows\WinFormsMultipleImagesPictureBox.genruntimeconfig.cache
+C:\Users\andre\OneDrive\Escritorio\Actual Work\Programming II\WinFormsMultipleImagesPictureBox\WinFormsMultipleImagesPictureBox\obj\Debug\net9.0-windows\ref\WinFormsMultipleImagesPictureBox.dll
