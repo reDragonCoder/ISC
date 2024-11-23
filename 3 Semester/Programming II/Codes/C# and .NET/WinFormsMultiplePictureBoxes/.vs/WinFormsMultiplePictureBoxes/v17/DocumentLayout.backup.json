@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\andre\\OneDrive\\Escritorio\\Actual Work\\Programming II\\WinFormsMultiplePictureBoxes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7FCBAE31-9984-4B8A-BB68-8ABF792540FD}|WinFormsMultiplePictureBoxes\\WinFormsMultiplePictureBoxes.csproj|c:\\users\\andre\\onedrive\\escritorio\\actual work\\programming ii\\winformsmultiplepictureboxes\\winformsmultiplepictureboxes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7FCBAE31-9984-4B8A-BB68-8ABF792540FD}|WinFormsMultiplePictureBoxes\\WinFormsMultiplePictureBoxes.csproj|solutionrelative:winformsmultiplepictureboxes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FCBAE31-9984-4B8A-BB68-8ABF792540FD}|WinFormsMultiplePictureBoxes\\WinFormsMultiplePictureBoxes.csproj|c:\\users\\andre\\onedrive\\escritorio\\actual work\\programming ii\\winformsmultiplepictureboxes\\winformsmultiplepictureboxes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FCBAE31-9984-4B8A-BB68-8ABF792540FD}|WinFormsMultiplePictureBoxes\\WinFormsMultiplePictureBoxes.csproj|solutionrelative:winformsmultiplepictureboxes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Escritorio\\Actual Work\\Programming II\\WinFormsMultiplePictureBoxes\\WinFormsMultiplePictureBoxes\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsMultiplePictureBoxes\\Form1.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Escritorio\\Actual Work\\Programming II\\WinFormsMultiplePictureBoxes\\WinFormsMultiplePictureBoxes\\Form1.cs",
+              "RelativeToolTip": "WinFormsMultiplePictureBoxes\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T20:14:55.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Escritorio\\Actual Work\\Programming II\\WinFormsMultiplePictureBoxes\\WinFormsMultiplePictureBoxes\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsMultiplePictureBoxes\\Form1.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Escritorio\\Actual Work\\Programming II\\WinFormsMultiplePictureBoxes\\WinFormsMultiplePictureBoxes\\Form1.cs [Design]",
+              "RelativeToolTip": "WinFormsMultiplePictureBoxes\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T20:11:45.682Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
