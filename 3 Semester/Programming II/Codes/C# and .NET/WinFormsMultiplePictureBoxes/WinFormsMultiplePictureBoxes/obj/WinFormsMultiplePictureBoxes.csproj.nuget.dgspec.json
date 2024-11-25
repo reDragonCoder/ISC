@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\andre\\OneDrive\\Escritorio\\Actual Work\\Programming II\\WinFormsMultiplePictureBoxes\\WinFormsMultiplePictureBoxes\\WinFormsMultiplePictureBoxes.csproj": {}
+    "C:\\Users\\andre\\OneDrive\\Escritorio\\Github Repositories\\ISC\\3 Semester\\Programming II\\Codes\\C# and .NET\\WinFormsMultiplePictureBoxes\\WinFormsMultiplePictureBoxes\\WinFormsMultiplePictureBoxes.csproj": {}
   },
   "projects": {
-    "C:\\Users\\andre\\OneDrive\\Escritorio\\Actual Work\\Programming II\\WinFormsMultiplePictureBoxes\\WinFormsMultiplePictureBoxes\\WinFormsMultiplePictureBoxes.csproj": {
+    "C:\\Users\\andre\\OneDrive\\Escritorio\\Github Repositories\\ISC\\3 Semester\\Programming II\\Codes\\C# and .NET\\WinFormsMultiplePictureBoxes\\WinFormsMultiplePictureBoxes\\WinFormsMultiplePictureBoxes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\andre\\OneDrive\\Escritorio\\Actual Work\\Programming II\\WinFormsMultiplePictureBoxes\\WinFormsMultiplePictureBoxes\\WinFormsMultiplePictureBoxes.csproj",
+        "projectUniqueName": "C:\\Users\\andre\\OneDrive\\Escritorio\\Github Repositories\\ISC\\3 Semester\\Programming II\\Codes\\C# and .NET\\WinFormsMultiplePictureBoxes\\WinFormsMultiplePictureBoxes\\WinFormsMultiplePictureBoxes.csproj",
         "projectName": "WinFormsMultiplePictureBoxes",
-        "projectPath": "C:\\Users\\andre\\OneDrive\\Escritorio\\Actual Work\\Programming II\\WinFormsMultiplePictureBoxes\\WinFormsMultiplePictureBoxes\\WinFormsMultiplePictureBoxes.csproj",
+        "projectPath": "C:\\Users\\andre\\OneDrive\\Escritorio\\Github Repositories\\ISC\\3 Semester\\Programming II\\Codes\\C# and .NET\\WinFormsMultiplePictureBoxes\\WinFormsMultiplePictureBoxes\\WinFormsMultiplePictureBoxes.csproj",
         "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\andre\\OneDrive\\Escritorio\\Actual Work\\Programming II\\WinFormsMultiplePictureBoxes\\WinFormsMultiplePictureBoxes\\obj\\",
+        "outputPath": "C:\\Users\\andre\\OneDrive\\Escritorio\\Github Repositories\\ISC\\3 Semester\\Programming II\\Codes\\C# and .NET\\WinFormsMultiplePictureBoxes\\WinFormsMultiplePictureBoxes\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

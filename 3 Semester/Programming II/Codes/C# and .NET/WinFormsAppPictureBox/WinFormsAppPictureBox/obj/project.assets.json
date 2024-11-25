@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\andre\\OneDrive\\Escritorio\\Actual Work\\Programming II\\WinFormsAppPictureBox\\WinFormsAppPictureBox\\WinFormsAppPictureBox.csproj",
+      "projectUniqueName": "C:\\Users\\andre\\OneDrive\\Escritorio\\Github Repositories\\ISC\\3 Semester\\Programming II\\Codes\\C# and .NET\\WinFormsAppPictureBox\\WinFormsAppPictureBox\\WinFormsAppPictureBox.csproj",
       "projectName": "WinFormsAppPictureBox",
-      "projectPath": "C:\\Users\\andre\\OneDrive\\Escritorio\\Actual Work\\Programming II\\WinFormsAppPictureBox\\WinFormsAppPictureBox\\WinFormsAppPictureBox.csproj",
+      "projectPath": "C:\\Users\\andre\\OneDrive\\Escritorio\\Github Repositories\\ISC\\3 Semester\\Programming II\\Codes\\C# and .NET\\WinFormsAppPictureBox\\WinFormsAppPictureBox\\WinFormsAppPictureBox.csproj",
       "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\andre\\OneDrive\\Escritorio\\Actual Work\\Programming II\\WinFormsAppPictureBox\\WinFormsAppPictureBox\\obj\\",
+      "outputPath": "C:\\Users\\andre\\OneDrive\\Escritorio\\Github Repositories\\ISC\\3 Semester\\Programming II\\Codes\\C# and .NET\\WinFormsAppPictureBox\\WinFormsAppPictureBox\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

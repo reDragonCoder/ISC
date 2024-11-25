@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WinFormsMultiplePictureBoxes")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a294d56c3bd2bffd4e42fe9ec13e55b0f8e63bea")]
 [assembly: System.Reflection.AssemblyProductAttribute("WinFormsMultiplePictureBoxes")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WinFormsMultiplePictureBoxes")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
