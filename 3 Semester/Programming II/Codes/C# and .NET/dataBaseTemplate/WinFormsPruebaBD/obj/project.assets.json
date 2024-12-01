@@ -1559,11 +1559,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\andre\\OneDrive\\Escritorio\\WinFormsPruebaBD\\WinFormsPruebaBD.csproj",
+      "projectUniqueName": "C:\\Users\\andre\\OneDrive\\Escritorio\\GitHubRepos\\ISC\\3 Semester\\Programming II\\Codes\\C# and .NET\\dataBaseTemplate\\WinFormsPruebaBD\\WinFormsPruebaBD.csproj",
       "projectName": "WinFormsPruebaBD",
-      "projectPath": "C:\\Users\\andre\\OneDrive\\Escritorio\\WinFormsPruebaBD\\WinFormsPruebaBD.csproj",
+      "projectPath": "C:\\Users\\andre\\OneDrive\\Escritorio\\GitHubRepos\\ISC\\3 Semester\\Programming II\\Codes\\C# and .NET\\dataBaseTemplate\\WinFormsPruebaBD\\WinFormsPruebaBD.csproj",
       "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\andre\\OneDrive\\Escritorio\\WinFormsPruebaBD\\obj\\",
+      "outputPath": "C:\\Users\\andre\\OneDrive\\Escritorio\\GitHubRepos\\ISC\\3 Semester\\Programming II\\Codes\\C# and .NET\\dataBaseTemplate\\WinFormsPruebaBD\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

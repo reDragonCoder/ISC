@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\andre\\OneDrive\\Escritorio\\Actual Work\\Programming II\\WinFormsDataBaseManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B8F95A7-5E20-47CE-B3C4-41E50EE93DB1}|WinFormsDataBaseManagement\\WinFormsDataBaseManagement.csproj|c:\\users\\andre\\onedrive\\escritorio\\actual work\\programming ii\\winformsdatabasemanagement\\winformsdatabasemanagement\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B8F95A7-5E20-47CE-B3C4-41E50EE93DB1}|WinFormsDataBaseManagement\\WinFormsDataBaseManagement.csproj|solutionrelative:winformsdatabasemanagement\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B8F95A7-5E20-47CE-B3C4-41E50EE93DB1}|WinFormsDataBaseManagement\\WinFormsDataBaseManagement.csproj|c:\\users\\andre\\onedrive\\escritorio\\actual work\\programming ii\\winformsdatabasemanagement\\winformsdatabasemanagement\\clients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B8F95A7-5E20-47CE-B3C4-41E50EE93DB1}|WinFormsDataBaseManagement\\WinFormsDataBaseManagement.csproj|solutionrelative:winformsdatabasemanagement\\clients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B8F95A7-5E20-47CE-B3C4-41E50EE93DB1}|WinFormsDataBaseManagement\\WinFormsDataBaseManagement.csproj|c:\\users\\andre\\onedrive\\escritorio\\actual work\\programming ii\\winformsdatabasemanagement\\winformsdatabasemanagement\\admondb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B8F95A7-5E20-47CE-B3C4-41E50EE93DB1}|WinFormsDataBaseManagement\\WinFormsDataBaseManagement.csproj|solutionrelative:winformsdatabasemanagement\\admondb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B8F95A7-5E20-47CE-B3C4-41E50EE93DB1}|WinFormsDataBaseManagement\\WinFormsDataBaseManagement.csproj|c:\\users\\andre\\onedrive\\escritorio\\actual work\\programming ii\\winformsdatabasemanagement\\winformsdatabasemanagement\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6B8F95A7-5E20-47CE-B3C4-41E50EE93DB1}|WinFormsDataBaseManagement\\WinFormsDataBaseManagement.csproj|solutionrelative:winformsdatabasemanagement\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Escritorio\\Actual Work\\Programming II\\WinFormsDataBaseManagement\\WinFormsDataBaseManagement\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsDataBaseManagement\\Form1.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Escritorio\\Actual Work\\Programming II\\WinFormsDataBaseManagement\\WinFormsDataBaseManagement\\Form1.cs [Design]",
+              "RelativeToolTip": "WinFormsDataBaseManagement\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T23:50:03.623Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Escritorio\\Actual Work\\Programming II\\WinFormsDataBaseManagement\\WinFormsDataBaseManagement\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsDataBaseManagement\\Form1.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Escritorio\\Actual Work\\Programming II\\WinFormsDataBaseManagement\\WinFormsDataBaseManagement\\Form1.cs",
+              "RelativeToolTip": "WinFormsDataBaseManagement\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFcAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T13:58:08.153Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdmonDB.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Escritorio\\Actual Work\\Programming II\\WinFormsDataBaseManagement\\WinFormsDataBaseManagement\\AdmonDB.cs",
+              "RelativeDocumentMoniker": "WinFormsDataBaseManagement\\AdmonDB.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Escritorio\\Actual Work\\Programming II\\WinFormsDataBaseManagement\\WinFormsDataBaseManagement\\AdmonDB.cs",
+              "RelativeToolTip": "WinFormsDataBaseManagement\\AdmonDB.cs",
+              "ViewState": "AgIAAJ0AAAAAAAAAAAAwwLMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T07:34:33.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Clients.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Escritorio\\Actual Work\\Programming II\\WinFormsDataBaseManagement\\WinFormsDataBaseManagement\\Clients.cs",
+              "RelativeDocumentMoniker": "WinFormsDataBaseManagement\\Clients.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Escritorio\\Actual Work\\Programming II\\WinFormsDataBaseManagement\\WinFormsDataBaseManagement\\Clients.cs",
+              "RelativeToolTip": "WinFormsDataBaseManagement\\Clients.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAzwAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T07:30:22.264Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
