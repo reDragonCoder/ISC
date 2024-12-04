@@ -1,8 +1,8 @@
 // AUthor: reDragonCoder
 //POO  funciones miembro static y sobrecarga de funciones static
 
-#include<iostream>
-#include<cstdlib>
+#include <iostream>
+#include <cstdlib>
 
 
 using namespace std;

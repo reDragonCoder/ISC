@@ -59,9 +59,6 @@ class Numeros{
 		  Por eso comparamos el puntero this con la direcci�n del par�metro, 
 		  si son iguales es que se trata del mismo objeto, y no debemos hacer nada.
 	 	  Esta es una de las situaciones en las que el puntero this es imprescindible*/			
-		 						
-		
-		
 };
 
  
@@ -115,5 +112,5 @@ int main()
 	cout<<endl<<"\nEsta validado que la autoasignacion no proceda";
     
 	
-return 0;
+	return 0;
 }

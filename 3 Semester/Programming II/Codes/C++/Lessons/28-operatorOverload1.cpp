@@ -1,4 +1,5 @@
 // Author: reDragonCoder
+
 //sobrecarga operador + ejemplo1
 
 #include <iostream>
@@ -26,28 +27,25 @@ Coordenada  Coordenada::operator+ (Coordenada  obj) //<--NOTAR AQUI
 	return temp;//<--NOTAR AQUI
 }
 
-int main()
-{
-Coordenada obj1(8,4), obj2(10,3),obj3;
-obj3 = obj1 + obj2; 
+int main(){
+	Coordenada obj1(8,4), obj2(10,3),obj3;
+	obj3 = obj1 + obj2; 
 
-/*equivale obj1.operator+(obj2); 
-   
-  Y de una forma mas completa considerando la asignacion es
-  
-  obj3.operator=(obj1.operator+(obj2));
-  
-  Este programa no tiene sobrecarga de operador de =, al menos no
-  implementado por nosotros, pero realmente se esta usando la sobrecarga del
-  operador de asignacion de forma implicita, gracias a que no hay
-  punteros en esta clase, si hubiera punteros involucrados, necesitariamos
-  sobrecargar al operador de asignacion
-  
-*/
-cout << "Suma de obj1 mas obj2\n";
-cout << "obj3 x: "<<obj3.getX()<< " y: " << obj3.getY();
- 
-
-
-return 0;
+	/*equivale obj1.operator+(obj2); 
+	
+	Y de una forma mas completa considerando la asignacion es
+	
+	obj3.operator=(obj1.operator+(obj2));
+	
+	Este programa no tiene sobrecarga de operador de =, al menos no
+	implementado por nosotros, pero realmente se esta usando la sobrecarga del
+	operador de asignacion de forma implicita, gracias a que no hay
+	punteros en esta clase, si hubiera punteros involucrados, necesitariamos
+	sobrecargar al operador de asignacion
+	
+	*/
+	cout << "Suma de obj1 mas obj2\n";
+	cout << "obj3 x: "<<obj3.getX()<< " y: " << obj3.getY();
+	
+	return 0;
 }

@@ -1,6 +1,5 @@
 #include <iostream>
 //POO Reglas y uso de atributos y metodos static
-//Autor GSP
 
 using namespace std;
 /*Una variable (atributo)  y/o constante estatica de una clase es un dato comun a todas

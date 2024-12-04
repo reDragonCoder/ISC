@@ -1,4 +1,5 @@
 // Author: reDragonCoder
+
 //sobrecarga operador + ejemplo2
 //No hay punteros entre los atributos de la clase
 

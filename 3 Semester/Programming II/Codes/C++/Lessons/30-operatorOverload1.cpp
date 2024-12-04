@@ -42,19 +42,18 @@ cout<<"\nEntre a la sobrecarga del operator != ";
         return false;
 }
 
-int main()
-{
-Coordenada obj1(10,5), obj2(10,10);
-if( obj1 == obj2 ) // puede quedar if ( obj1.operator==(obj2) )
-  cout << "\nValores de los atributos de Objeto 1 y Objeto 2  IGUALES";
-else
-  cout << "\nValores de los atributos de Objeto 1 y Objeto 2  NO IGUALES";
-cout<<"\n\n";
+int main(){
+	Coordenada obj1(10,5), obj2(10,10);
+	if( obj1 == obj2 ) // puede quedar if ( obj1.operator==(obj2) )
+	cout << "\nValores de los atributos de Objeto 1 y Objeto 2  IGUALES";
+	else
+	cout << "\nValores de los atributos de Objeto 1 y Objeto 2  NO IGUALES";
+	cout<<"\n\n";
 
-if( obj1 != obj2 ) // puede quedar if ( obj1.operator!=(obj2) )
-  cout << "\nValores de los atributos de de Objeto 1 y Objeto 2 SON DIFERENTES";
-else
-  cout << "\nValores de los atributos de de Objeto 1 y Objeto 2 NO SON DIFERENTES";
+	if( obj1 != obj2 ) // puede quedar if ( obj1.operator!=(obj2) )
+	cout << "\nValores de los atributos de de Objeto 1 y Objeto 2 SON DIFERENTES";
+	else
+	cout << "\nValores de los atributos de de Objeto 1 y Objeto 2 NO SON DIFERENTES";
 
-return 0;
+	return 0;
 }

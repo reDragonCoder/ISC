@@ -9,16 +9,11 @@ Por firma se entiende el total de parametros y/o el tipo
 de dato de los parametros
 */
 
-//Autor GSP
 #include <iostream>
 using namespace std;
+
 class Operaciones{
-
-	private:
-
-
 	public:
-
 		//-------> Notar que para las funciones inline puede usarse o NO la sentencia inline 
 		
 		inline int mayor(int a, int b) { //parametros
@@ -44,11 +39,12 @@ class Operaciones{
 
 };
 
-int main()
-{
+int main(){
 	Operaciones obj;
+	
 	cout<<endl<<obj.mayor(45, 20); //argumentos
 	cout<<endl<<obj.mayor('x', 'a');
 	cout<<endl<<obj.mayor(16.3, 14.15);
-  return 0;
+
+  	return 0;
 }

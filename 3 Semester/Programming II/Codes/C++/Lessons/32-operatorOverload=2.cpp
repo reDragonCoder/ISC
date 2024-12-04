@@ -41,14 +41,10 @@ class Numeros{
 				this->x[i]=10+rand()%39;
 			}
 		}
-		
-
-		
 };
 
  
-int main()
-{
+int main(){
 	srand(time(0));
 	Numeros obj1(10), obj2, obj3(9),obj4, obj5(12);
 	cout<<endl<<"\nSin sobrecargar operador de asignacion";
@@ -97,5 +93,5 @@ int main()
 	cout<<endl<<"\nDeberiamos validar que cuando fuera autoasignacion no se haga";
     
 	
-return 0;
+	return 0;
 }

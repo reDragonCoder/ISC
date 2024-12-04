@@ -1,5 +1,5 @@
 //POO Uso de una constante static como atributo de una clase
-//Autor GSP
+
 #include <iostream>
 using namespace std;
 
@@ -36,30 +36,26 @@ class Circulo{
 
 int Circulo::contador=3; //un atributo static se inicializa fuera de la clase.
  
-int main()
-{
+int main(){
                                              
- cout<<endl<<"******************************************************"; 	
- Circulo circulo1(6);
- cout<<endl<<"El area es: "<<circulo1.calcularArea();
- cout<<endl<<"******************************************************";
-  	
- Circulo circulo2(8);
- cout<<endl<<"El area es: "<<circulo2.calcularArea();
- cout<<endl<<"******************************************************"; 	
- 
- Circulo circulo3(9);
- cout<<endl<<"El area es: "<<circulo3.calcularArea();
- cout<<endl<<"******************************************************"; 
- 	
- Circulo circulo4(3.4); 
- cout<<endl<<"El area es: "<<circulo4.calcularArea();
- 
- cout<<endl<<"******************************************************";  	
- cout<<endl<<"contador de objetos: "<<Circulo::getContador();
- 
- 
- 
- 
-return 0;
+	cout<<endl<<"******************************************************"; 	
+	Circulo circulo1(6);
+	cout<<endl<<"El area es: "<<circulo1.calcularArea();
+	cout<<endl<<"******************************************************";
+		
+	Circulo circulo2(8);
+	cout<<endl<<"El area es: "<<circulo2.calcularArea();
+	cout<<endl<<"******************************************************"; 	
+	
+	Circulo circulo3(9);
+	cout<<endl<<"El area es: "<<circulo3.calcularArea();
+	cout<<endl<<"******************************************************"; 
+		
+	Circulo circulo4(3.4); 
+	cout<<endl<<"El area es: "<<circulo4.calcularArea();
+	
+	cout<<endl<<"******************************************************";  	
+	cout<<endl<<"contador de objetos: "<<Circulo::getContador();
+	
+	return 0;
 } 

@@ -10,9 +10,9 @@ class Paciente{
 		string padecimiento;
 		
 	public:
-	      string getNombre(){
-	      	return this->nombre;
-	      }	
+			string getNombre(){
+				return this->nombre;
+			}	
 	      
 	      int getEdad(){
 	      	return this->edad;

@@ -1,5 +1,5 @@
 //POO Uso de una constante static como atributo de una clase
-//Autor GSP
+
 #include <iostream>
 using namespace std;
 

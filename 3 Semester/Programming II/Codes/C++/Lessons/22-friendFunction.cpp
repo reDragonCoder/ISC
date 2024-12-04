@@ -3,8 +3,6 @@
 #include <iostream>
 using namespace std;
 
-//Autor GSP   "FUNCIONES AMIGAS"
-
 /*La clase le otorga su amistad a una funcion ajena a sus funciones miembro,
 para que pueda utilizar atributos y metodos privados*/
 
@@ -61,12 +59,7 @@ Numeros sumaAmiga(Numeros &obj1, Numeros &obj2){  //NOTAR QUE NO SE USO el opera
     return aux;
 }
 
-
-
-
-
-int main()
-{
+int main(){
 	Numeros a(3,3),b(4,4);
 	a.mostrar();
 	b.mostrar();
@@ -77,5 +70,5 @@ int main()
 	
 	
 	cin.get();
-return 0;
+  return 0;
 }
