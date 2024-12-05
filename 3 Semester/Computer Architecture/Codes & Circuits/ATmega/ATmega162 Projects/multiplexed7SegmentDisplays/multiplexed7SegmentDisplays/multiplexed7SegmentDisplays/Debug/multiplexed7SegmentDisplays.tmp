@@ -1,0 +1,33 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega162"</DEVICE>
+ <WORKING_DIR>C:\Users\andre\OneDrive\Escritorio\Actual Work\Computer architecture\programas 3er parcial\multiplexed7SegmentDisplays\multiplexed7SegmentDisplays\multiplexed7SegmentDisplays\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\andre\OneDrive\Escritorio\Actual Work\Computer architecture\programas 3er parcial\multiplexed7SegmentDisplays\multiplexed7SegmentDisplays\multiplexed7SegmentDisplays\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m162def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\andre\OneDrive\Escritorio\Actual Work\Computer architecture\programas 3er parcial\multiplexed7SegmentDisplays\multiplexed7SegmentDisplays\multiplexed7SegmentDisplays\Debug\multiplexed7SegmentDisplays.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>multiplexed7SegmentDisplays.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>multiplexed7SegmentDisplays.map</FILE>
+  <FILE>multiplexed7SegmentDisplays.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <RESET><FILE>C:\Users\andre\OneDrive\Escritorio\Actual Work\Computer architecture\programas 3er parcial\multiplexed7SegmentDisplays\multiplexed7SegmentDisplays\multiplexed7SegmentDisplays\main.asm</FILE><LINE>15</LINE></RESET>
+  <INICIO><FILE>C:\Users\andre\OneDrive\Escritorio\Actual Work\Computer architecture\programas 3er parcial\multiplexed7SegmentDisplays\multiplexed7SegmentDisplays\multiplexed7SegmentDisplays\main.asm</FILE><LINE>29</LINE></INICIO>
+  <CICLO><FILE>C:\Users\andre\OneDrive\Escritorio\Actual Work\Computer architecture\programas 3er parcial\multiplexed7SegmentDisplays\multiplexed7SegmentDisplays\multiplexed7SegmentDisplays\main.asm</FILE><LINE>161</LINE></CICLO>
+  <TIME2><FILE>C:\Users\andre\OneDrive\Escritorio\Actual Work\Computer architecture\programas 3er parcial\multiplexed7SegmentDisplays\multiplexed7SegmentDisplays\multiplexed7SegmentDisplays\main.asm</FILE><LINE>221</LINE></TIME2>
+  <TIME><FILE>C:\Users\andre\OneDrive\Escritorio\Actual Work\Computer architecture\programas 3er parcial\multiplexed7SegmentDisplays\multiplexed7SegmentDisplays\multiplexed7SegmentDisplays\main.asm</FILE><LINE>211</LINE></TIME>
+  <L1><FILE>C:\Users\andre\OneDrive\Escritorio\Actual Work\Computer architecture\programas 3er parcial\multiplexed7SegmentDisplays\multiplexed7SegmentDisplays\multiplexed7SegmentDisplays\main.asm</FILE><LINE>215</LINE></L1>
+  <L2><FILE>C:\Users\andre\OneDrive\Escritorio\Actual Work\Computer architecture\programas 3er parcial\multiplexed7SegmentDisplays\multiplexed7SegmentDisplays\multiplexed7SegmentDisplays\main.asm</FILE><LINE>225</LINE></L2>
+ </LABELS>
+</ASSEMBLER_INFO>
