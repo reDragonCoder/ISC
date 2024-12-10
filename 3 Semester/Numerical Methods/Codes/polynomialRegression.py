@@ -37,7 +37,7 @@ print(a)
 
 # Make predictions on the data set
 y_pred=x_b.dot(a)
-print('Values ​​estimated by the model: ')
+print('Values estimated by the model: ')
 print(y_pred)
 
 # Model evaluation: calculate the mean square error (MSE) and the coefficient of determination
