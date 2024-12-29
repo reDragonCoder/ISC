@@ -1,0 +1,3 @@
+ei	math	10.00 
+ia	chem	8.00 
+ei	calculus	10.00 
