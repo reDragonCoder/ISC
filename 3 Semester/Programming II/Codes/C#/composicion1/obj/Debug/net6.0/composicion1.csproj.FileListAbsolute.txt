@@ -1,0 +1,15 @@
+D:\mispracticasc#\composicion1\bin\Debug\net6.0\composicion1.exe
+D:\mispracticasc#\composicion1\bin\Debug\net6.0\composicion1.deps.json
+D:\mispracticasc#\composicion1\bin\Debug\net6.0\composicion1.runtimeconfig.json
+D:\mispracticasc#\composicion1\bin\Debug\net6.0\composicion1.dll
+D:\mispracticasc#\composicion1\bin\Debug\net6.0\composicion1.pdb
+D:\mispracticasc#\composicion1\obj\Debug\net6.0\composicion1.csproj.AssemblyReference.cache
+D:\mispracticasc#\composicion1\obj\Debug\net6.0\composicion1.GeneratedMSBuildEditorConfig.editorconfig
+D:\mispracticasc#\composicion1\obj\Debug\net6.0\composicion1.AssemblyInfoInputs.cache
+D:\mispracticasc#\composicion1\obj\Debug\net6.0\composicion1.AssemblyInfo.cs
+D:\mispracticasc#\composicion1\obj\Debug\net6.0\composicion1.csproj.CoreCompileInputs.cache
+D:\mispracticasc#\composicion1\obj\Debug\net6.0\composicion1.dll
+D:\mispracticasc#\composicion1\obj\Debug\net6.0\refint\composicion1.dll
+D:\mispracticasc#\composicion1\obj\Debug\net6.0\composicion1.pdb
+D:\mispracticasc#\composicion1\obj\Debug\net6.0\composicion1.genruntimeconfig.cache
+D:\mispracticasc#\composicion1\obj\Debug\net6.0\ref\composicion1.dll
