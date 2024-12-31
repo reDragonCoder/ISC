@@ -1,0 +1,34 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega162"</DEVICE>
+ <WORKING_DIR>C:\Users\andre\OneDrive\Escritorio\externalInterruption_7SegmentDisplay\externalInterruption_7SegmentDisplay\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\andre\OneDrive\Escritorio\externalInterruption_7SegmentDisplay\externalInterruption_7SegmentDisplay\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m162def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\andre\OneDrive\Escritorio\externalInterruption_7SegmentDisplay\externalInterruption_7SegmentDisplay\Debug\externalInterruption_7SegmentDisplay.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>externalInterruption_7SegmentDisplay.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>externalInterruption_7SegmentDisplay.map</FILE>
+  <FILE>externalInterruption_7SegmentDisplay.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <PRINCIPAL><FILE>C:\Users\andre\OneDrive\Escritorio\externalInterruption_7SegmentDisplay\externalInterruption_7SegmentDisplay\main.asm</FILE><LINE>17</LINE></PRINCIPAL>
+  <INT_EXT_0><FILE>C:\Users\andre\OneDrive\Escritorio\externalInterruption_7SegmentDisplay\externalInterruption_7SegmentDisplay\main.asm</FILE><LINE>79</LINE></INT_EXT_0>
+  <INICIO><FILE>C:\Users\andre\OneDrive\Escritorio\externalInterruption_7SegmentDisplay\externalInterruption_7SegmentDisplay\main.asm</FILE><LINE>43</LINE></INICIO>
+  <CICLO><FILE>C:\Users\andre\OneDrive\Escritorio\externalInterruption_7SegmentDisplay\externalInterruption_7SegmentDisplay\main.asm</FILE><LINE>46</LINE></CICLO>
+  <TABLANUM><FILE>C:\Users\andre\OneDrive\Escritorio\externalInterruption_7SegmentDisplay\externalInterruption_7SegmentDisplay\main.asm</FILE><LINE>61</LINE></TABLANUM>
+  <SIGUE><FILE>C:\Users\andre\OneDrive\Escritorio\externalInterruption_7SegmentDisplay\externalInterruption_7SegmentDisplay\main.asm</FILE><LINE>52</LINE></SIGUE>
+  <TIEMPO><FILE>C:\Users\andre\OneDrive\Escritorio\externalInterruption_7SegmentDisplay\externalInterruption_7SegmentDisplay\main.asm</FILE><LINE>65</LINE></TIEMPO>
+  <L1><FILE>C:\Users\andre\OneDrive\Escritorio\externalInterruption_7SegmentDisplay\externalInterruption_7SegmentDisplay\main.asm</FILE><LINE>70</LINE></L1>
+ </LABELS>
+</ASSEMBLER_INFO>
