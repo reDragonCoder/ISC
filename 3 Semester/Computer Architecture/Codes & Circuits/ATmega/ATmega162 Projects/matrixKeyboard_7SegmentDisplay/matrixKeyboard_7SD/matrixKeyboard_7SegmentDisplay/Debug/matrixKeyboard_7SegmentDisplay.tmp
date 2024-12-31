@@ -1,0 +1,54 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega162"</DEVICE>
+ <WORKING_DIR>C:\Users\andre\OneDrive\Escritorio\matrixKeyboard_7SegmentDisplay\matrixKeyboard_7SegmentDisplay\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\andre\OneDrive\Escritorio\matrixKeyboard_7SegmentDisplay\matrixKeyboard_7SegmentDisplay\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m162def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\andre\OneDrive\Escritorio\matrixKeyboard_7SegmentDisplay\matrixKeyboard_7SegmentDisplay\Debug\matrixKeyboard_7SegmentDisplay.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>matrixKeyboard_7SegmentDisplay.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>matrixKeyboard_7SegmentDisplay.map</FILE>
+  <FILE>matrixKeyboard_7SegmentDisplay.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <CICLO><FILE>C:\Users\andre\OneDrive\Escritorio\matrixKeyboard_7SegmentDisplay\matrixKeyboard_7SegmentDisplay\main.asm</FILE><LINE>30</LINE></CICLO>
+  <TABLA><FILE>C:\Users\andre\OneDrive\Escritorio\matrixKeyboard_7SegmentDisplay\matrixKeyboard_7SegmentDisplay\main.asm</FILE><LINE>254</LINE></TABLA>
+  <F1><FILE>C:\Users\andre\OneDrive\Escritorio\matrixKeyboard_7SegmentDisplay\matrixKeyboard_7SegmentDisplay\main.asm</FILE><LINE>40</LINE></F1>
+  <F1_C1><FILE>C:\Users\andre\OneDrive\Escritorio\matrixKeyboard_7SegmentDisplay\matrixKeyboard_7SegmentDisplay\main.asm</FILE><LINE>43</LINE></F1_C1>
+  <Rebote><FILE>C:\Users\andre\OneDrive\Escritorio\matrixKeyboard_7SegmentDisplay\matrixKeyboard_7SegmentDisplay\main.asm</FILE><LINE>245</LINE></Rebote>
+  <F1_C2><FILE>C:\Users\andre\OneDrive\Escritorio\matrixKeyboard_7SegmentDisplay\matrixKeyboard_7SegmentDisplay\main.asm</FILE><LINE>52</LINE></F1_C2>
+  <DatoTabla><FILE>C:\Users\andre\OneDrive\Escritorio\matrixKeyboard_7SegmentDisplay\matrixKeyboard_7SegmentDisplay\main.asm</FILE><LINE>232</LINE></DatoTabla>
+  <F1_C3><FILE>C:\Users\andre\OneDrive\Escritorio\matrixKeyboard_7SegmentDisplay\matrixKeyboard_7SegmentDisplay\main.asm</FILE><LINE>63</LINE></F1_C3>
+  <F1_C4><FILE>C:\Users\andre\OneDrive\Escritorio\matrixKeyboard_7SegmentDisplay\matrixKeyboard_7SegmentDisplay\main.asm</FILE><LINE>74</LINE></F1_C4>
+  <F2><FILE>C:\Users\andre\OneDrive\Escritorio\matrixKeyboard_7SegmentDisplay\matrixKeyboard_7SegmentDisplay\main.asm</FILE><LINE>89</LINE></F2>
+  <FinFila><FILE>C:\Users\andre\OneDrive\Escritorio\matrixKeyboard_7SegmentDisplay\matrixKeyboard_7SegmentDisplay\main.asm</FILE><LINE>85</LINE></FinFila>
+  <F2_C1><FILE>C:\Users\andre\OneDrive\Escritorio\matrixKeyboard_7SegmentDisplay\matrixKeyboard_7SegmentDisplay\main.asm</FILE><LINE>93</LINE></F2_C1>
+  <F2_C2><FILE>C:\Users\andre\OneDrive\Escritorio\matrixKeyboard_7SegmentDisplay\matrixKeyboard_7SegmentDisplay\main.asm</FILE><LINE>102</LINE></F2_C2>
+  <F2_C3><FILE>C:\Users\andre\OneDrive\Escritorio\matrixKeyboard_7SegmentDisplay\matrixKeyboard_7SegmentDisplay\main.asm</FILE><LINE>113</LINE></F2_C3>
+  <F2_C4><FILE>C:\Users\andre\OneDrive\Escritorio\matrixKeyboard_7SegmentDisplay\matrixKeyboard_7SegmentDisplay\main.asm</FILE><LINE>124</LINE></F2_C4>
+  <F3><FILE>C:\Users\andre\OneDrive\Escritorio\matrixKeyboard_7SegmentDisplay\matrixKeyboard_7SegmentDisplay\main.asm</FILE><LINE>136</LINE></F3>
+  <F3_C1><FILE>C:\Users\andre\OneDrive\Escritorio\matrixKeyboard_7SegmentDisplay\matrixKeyboard_7SegmentDisplay\main.asm</FILE><LINE>140</LINE></F3_C1>
+  <F3_C2><FILE>C:\Users\andre\OneDrive\Escritorio\matrixKeyboard_7SegmentDisplay\matrixKeyboard_7SegmentDisplay\main.asm</FILE><LINE>149</LINE></F3_C2>
+  <F3_C3><FILE>C:\Users\andre\OneDrive\Escritorio\matrixKeyboard_7SegmentDisplay\matrixKeyboard_7SegmentDisplay\main.asm</FILE><LINE>160</LINE></F3_C3>
+  <F3_C4><FILE>C:\Users\andre\OneDrive\Escritorio\matrixKeyboard_7SegmentDisplay\matrixKeyboard_7SegmentDisplay\main.asm</FILE><LINE>171</LINE></F3_C4>
+  <F4><FILE>C:\Users\andre\OneDrive\Escritorio\matrixKeyboard_7SegmentDisplay\matrixKeyboard_7SegmentDisplay\main.asm</FILE><LINE>183</LINE></F4>
+  <F4_C1><FILE>C:\Users\andre\OneDrive\Escritorio\matrixKeyboard_7SegmentDisplay\matrixKeyboard_7SegmentDisplay\main.asm</FILE><LINE>187</LINE></F4_C1>
+  <F4_C2><FILE>C:\Users\andre\OneDrive\Escritorio\matrixKeyboard_7SegmentDisplay\matrixKeyboard_7SegmentDisplay\main.asm</FILE><LINE>196</LINE></F4_C2>
+  <F4_C3><FILE>C:\Users\andre\OneDrive\Escritorio\matrixKeyboard_7SegmentDisplay\matrixKeyboard_7SegmentDisplay\main.asm</FILE><LINE>207</LINE></F4_C3>
+  <F4_C4><FILE>C:\Users\andre\OneDrive\Escritorio\matrixKeyboard_7SegmentDisplay\matrixKeyboard_7SegmentDisplay\main.asm</FILE><LINE>218</LINE></F4_C4>
+  <FinFilaF4><FILE>C:\Users\andre\OneDrive\Escritorio\matrixKeyboard_7SegmentDisplay\matrixKeyboard_7SegmentDisplay\main.asm</FILE><LINE>228</LINE></FinFilaF4>
+  <SIGUE><FILE>C:\Users\andre\OneDrive\Escritorio\matrixKeyboard_7SegmentDisplay\matrixKeyboard_7SegmentDisplay\main.asm</FILE><LINE>239</LINE></SIGUE>
+  <DElay><FILE>C:\Users\andre\OneDrive\Escritorio\matrixKeyboard_7SegmentDisplay\matrixKeyboard_7SegmentDisplay\main.asm</FILE><LINE>247</LINE></DElay>
+ </LABELS>
+</ASSEMBLER_INFO>
