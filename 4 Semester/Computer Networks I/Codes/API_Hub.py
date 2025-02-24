@@ -16,6 +16,7 @@ import webbrowser
 # ---------- API ENDPOINTS ----------
 nasa_url = "https://api.nasa.gov/planetary/apod"
 pokemon_url = "https://pokeapi.co/api/v2"
+chuckN_url = "https://api.chucknorris.io/jokes/random"
 # -----------------------------------
 
 # ------------- API KEYS ------------
@@ -39,11 +40,13 @@ def show_frame(frame):
     reset_fields1()
     reset_fields2()
     reset_fields3()
+    reset_fields4()
     # Hide all frames before showing the current one
     frame0.pack_forget()
     frame1.pack_forget()
     frame2.pack_forget()
     frame3.pack_forget()
+    frame4.pack_forget()
 
     # Show the selected frame
     frame.pack(expand=True, fill="both")
@@ -234,6 +237,47 @@ def open_profile():
 def reset_fields3():
     textbox_Tweet.delete("1.0", tk.END)
 
+# Chuck Norris API
+def get_ChuckNJoke():
+    url = chuckN_url
+
+    try:
+        response = requests.get(url)
+        response.raise_for_status() 
+    except requests.exceptions.HTTPError as errh:
+        msgbox.showerror("Error", f"HTTP Error: {errh}")
+        return None
+    except requests.exceptions.RequestException as e:
+        msgbox.showerror("Error", "Error")
+        return None
+    
+    if response.status_code == 200:
+        # response.json() retrieves the data as a dictionary
+        cnJoke = response.json()
+        return cnJoke
+    else:
+        msgbox.showerror("Error", f"Failed to retrieve data: {response.status_code}")
+        return None
+
+def show_ChuckNJoke():
+    joke = get_ChuckNJoke()
+
+    if joke:
+        textbox_Joke4.config(state=tk.NORMAL)
+        textbox_Joke4.delete(1.0, tk.END)
+        textbox_Joke4.insert(tk.END, f"{joke['value']}")
+        textbox_Joke4.config(state=tk.DISABLED)
+
+    else:
+        msgbox.showerror("Error", "Error retrieving data")
+        textbox_Joke4.delete(1.0, tk.END)
+
+def reset_fields4():
+    textbox_Joke4.config(state="normal")
+    textbox_Joke4.delete("1.0", tk.END)
+    textbox_Joke4.config(state="disabled")
+
+
 # -----------------------------------
 
 # ----------- GUI CONFIG ------------
@@ -251,16 +295,19 @@ frame0.pack(expand=True, fill="both")
 # NASA Astronomy Pic frame
 frame1 = tk.Frame(container)
 frame1.pack(expand=True, fill="both")
-# Pokedex frame (not yet implemented)
+# Pokedex frame 
 frame2 = tk.Frame(container)
 frame2.pack(expand=True, fill="both")
-# Twitter Bot frame (not yet implemented)
+# Twitter Bot frame 
 frame3 = tk.Frame(container)
 frame3.pack(expand=True, fill="both")
+# Chuck Norris frame
+frame4 = tk.Frame(container)
+frame4.pack(expand=True, fill="both")
 
 # Menu Content
 title0_label = tk.Label(frame0, text="APIs Hub", font=("Courier", 40))
-title0_label.pack(pady=50)
+title0_label.pack(pady=40)
 
 labelEndpoint1 = tk.Label(frame0, text="EndPoint 1 - GET", font=("Courier", 20))
 labelEndpoint1.pack(pady=20)
@@ -278,6 +325,12 @@ labelEndpoint3 = tk.Label(frame0, text="EndPoint 3 - POST", font=("Courier", 20)
 labelEndpoint3.pack(pady=20)
 
 button_changeFrame3 = tk.Button(frame0, text="          Twitter Bot           ", command=lambda: show_frame(frame3), font=("Courier", 12)) 
+button_changeFrame3.pack(padx=20)
+
+labelEndpoint4 = tk.Label(frame0, text="EndPoint 4 - GET (extra)", font=("Courier", 20))
+labelEndpoint4.pack(pady=20)
+
+button_changeFrame3 = tk.Button(frame0, text="      Chuck Norris Jokes         ", command=lambda: show_frame(frame4), font=("Courier", 12)) 
 button_changeFrame3.pack(padx=20)
 
 # NASA Content
@@ -382,6 +435,23 @@ button_goToProfile3.pack(pady=10)
 
 button_back3 = tk.Button(frame3, text="Back", command=lambda: show_frame(frame0), font=("Courier", 16))
 button_back3.place(relx=1.0, rely=1.0, anchor='se', x=-10, y=-10)
+
+# Chuck Norris Content
+label_Title4 = tk.Label(frame4, text="Chuck Norris Jokes", font=("Courier", 40))
+label_Title4.pack(pady=50)
+
+textbox_Joke4 = tk.Text(frame4, wrap=tk.WORD, font=("Courier", 12), height=10, width=70, state="disabled")
+textbox_Joke4.pack(pady=20)
+
+button_generate4 = tk.Button(frame4, text="Generate", command=lambda: show_ChuckNJoke(), font=("Courier", 16))
+button_generate4.pack(pady=20)
+
+button_reset4 = tk.Button(frame4, text="Reset", command=lambda: reset_fields4(), font=("Courier", 16))
+button_reset4.pack(pady=10)
+
+button_back4 = tk.Button(frame4, text="Back", command=lambda: show_frame(frame0), font=("Courier", 16))
+button_back4.place(relx=1.0, rely=1.0, anchor='se', x=-10, y=-10)
+
 
 # Show the menu frame initially
 show_frame(frame0)
