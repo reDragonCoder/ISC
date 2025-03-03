@@ -1,7 +1,7 @@
 % Script en Octave para graficar un campo direccional de y' = f(x,y)
 
 % Definir la función f(x, y) (se puede cambiar según el problema)
-f=@(x, y)  - x ./ y;
+f=@(x, y)  x.^2 - y.^2;
 ;
 % Pedir al usuario los valores mínimo y máximo de la malla
 x_min = input('Ingrese el valor mínimo de x: ');
