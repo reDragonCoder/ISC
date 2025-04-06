@@ -82,7 +82,7 @@ void longitud(){
 	fflush(stdin);
 	gets(cad);   //cin>>cad;
 	tam = strlen(cad);  
-	printf("Tama�o de la cadena: %d\n",tam);
+	printf("Tamanio de la cadena: %d\n",tam);
 }
 
 void reversa(){
@@ -94,7 +94,7 @@ void unir(){
 	char nombre[TAM], materia[15], cad[TAM];
 	strcpy(cad,"");//limipiar una variable char antes de usarla
 	strcat(cad,nombre); //pegar el nombre en cad
-	strcat(cad,"-"); //pega un gui�n
+	strcat(cad,"-"); //pega un guion
 	strcat(cad,materia); //pegar la materia
 	printf("Union de cadenas: %s",cad);
 }

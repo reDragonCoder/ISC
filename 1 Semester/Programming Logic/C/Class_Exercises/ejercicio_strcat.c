@@ -1,6 +1,6 @@
 // Author: reDragonCoder
 //Ejercicio 2.
-//Te pido escribir un programa que capture un nombre, un apellido y crear una 
+//Escribir un programa que capture un nombre, un apellido y crear una 
 //nueva cadena de texto que contenga los dos valores capturados, separados por un espacio.
 
 //LIBRERIAS
