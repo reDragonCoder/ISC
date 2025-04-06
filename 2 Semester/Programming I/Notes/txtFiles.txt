@@ -1,4 +1,5 @@
-//Archivos .txt
+// Author: reDragonCoder
+// Archivos .txt
 
 * Usan las librerías iostream, string.h y stdlib.h.
 

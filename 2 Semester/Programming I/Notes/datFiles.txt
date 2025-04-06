@@ -1,4 +1,5 @@
-//Archivos .dat
+// Author: reDragonCoder
+// Archivos .dat
 
 * Usar librerías iostream, string.h, stdlib.h y ctype.h
 
