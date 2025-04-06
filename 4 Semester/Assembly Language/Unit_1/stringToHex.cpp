@@ -1,5 +1,5 @@
 // String to Hexadecimal
-// Celia Fernanda Vela Uribe - Cesar Andres Zuleta Malanco
+// Author: reDragonCoder
 // 24/02/2025   
 // Ensamblador
 

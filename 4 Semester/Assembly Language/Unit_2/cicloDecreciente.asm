@@ -1,5 +1,5 @@
 ; Ciclo decreciente
-; Celia Fernanda Vela Uribe y Cesar Andres Zuleta Malanco
+; Author: reDragonCoder
 ; 18/03/2025
 ; Assembly Language  
 

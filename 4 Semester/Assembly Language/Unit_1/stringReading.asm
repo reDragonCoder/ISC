@@ -1,5 +1,5 @@
 ; Lectura de una Cadena
-; Celia Fernanda Vela Uribe y César Andrés Zuleta Malanco
+; Author: reDragonCoder
 ; 26/02/2025
 ; Ensamblador 
 

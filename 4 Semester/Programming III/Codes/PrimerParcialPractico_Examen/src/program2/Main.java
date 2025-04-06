@@ -1,4 +1,4 @@
-// Cesar Andres Zuleta Malanco - ID: 30007
+// Author: reDragonCoder
 
 package program2;
 

@@ -1,5 +1,5 @@
 ; Impresion de caracter
-; Celia Fernanda Vela Uribe - Cesar Andres Zuleta Malanco
+; Author: reDragonCoder
 ; 25/02/2025
 ; Lenguaje Ensamblador
 

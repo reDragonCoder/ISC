@@ -1,5 +1,5 @@
 // Contador de 1's en un número binario
-// Celia Fernanda Vela Uribe y César Andrés Zuleta Malanco
+// Author: reDragonCoder
 // 12/02/2025
 // Ensamblador
 

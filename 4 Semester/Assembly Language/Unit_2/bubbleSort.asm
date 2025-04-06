@@ -1,5 +1,5 @@
 ; Bubble Sort
-; Celia Fernanda Vela Uribe y Cesar Andres Zuleta Malanco
+; Author: reDragonCoder
 ; 31/03/2025
 ; Assembly Language 
 .stack 100h

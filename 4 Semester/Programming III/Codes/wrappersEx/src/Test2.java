@@ -1,4 +1,4 @@
-// CESAR ANDRES ZULETA MALANCO 300077
+// Author: reDragonCoder
 
 public class Test2{
     public static void main(String[] args)

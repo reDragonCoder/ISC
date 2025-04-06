@@ -1,5 +1,5 @@
 ; Zero Flag & Compare Flag
-; Celia Fernanda Vela Uribe - Cesar Andres Zuleta Malanco
+; Author: reDragonCoder
 ; 06/03/2025
 ; Ensamblador
 

@@ -1,4 +1,4 @@
-// CESAR ANDRES ZULETA MALANCO 300077
+// Author: reDragonCoder
 
 public class StringToNumber {
     public static void main(String[] args) {

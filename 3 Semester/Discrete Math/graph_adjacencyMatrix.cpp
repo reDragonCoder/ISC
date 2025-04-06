@@ -1,4 +1,4 @@
-// Author: Aaron Guillen Villalobos
+// Author: reDragonCoder
 
 //LIBRARIES
 #include<iostream>

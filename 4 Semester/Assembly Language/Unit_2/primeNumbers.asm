@@ -1,5 +1,5 @@
 ; Numeros primos
-; Celia Fernanda Vela Uribe y Cesar Andres Zuleta Malanco
+; Author: reDragonCoder
 ; 01/04/2025
 ; Assembly Language  
 
@@ -7,7 +7,7 @@
 .stack 100h
 .data
 
-    ; Arreglo original de ´numeros
+    ; Arreglo original de ï¿½numeros
     array DB 13, 29, 17, 53, 61, 83, 97, 7, 9
     count DW 9      ; Cantidad de elementos en el arreglo
     

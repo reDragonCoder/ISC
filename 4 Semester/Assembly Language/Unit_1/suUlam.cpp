@@ -1,5 +1,5 @@
 // Succession de Ulam
-// Celia Fernanda Vela Uribe y César Andrés Zuleta Malanco
+// Author: reDragonCoder
 // 04/02/2025
 // Ensamblador
 

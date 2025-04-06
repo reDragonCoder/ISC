@@ -7,7 +7,7 @@ import requests
 base_url = "https://api.nasa.gov/planetary/apod"
 
 # API key
-api_key = "RjeNVFxhx2TnbLN8OZcqdQ17LBMqRxGtSyacFM4s"
+api_key = ""
 
 def get_astronomyPic(date):
     url = f"{base_url}?api_key={api_key}&date={date}"

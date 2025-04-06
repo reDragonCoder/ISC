@@ -1,5 +1,5 @@
 /* Exam code
- Celia Fernanda Vela Uribe y Cesar Andres Zuleta Malanco
+ Author: reDragonCoder
  10/03/2025
  Assembly Language
 */

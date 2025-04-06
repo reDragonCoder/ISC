@@ -1,5 +1,5 @@
 ; Operaciones con stack
-; Celia Fernanda Vela Uribe
+; Author: reDragonCoder
 ; 20/03/2025
 ; Assembly Language   
 

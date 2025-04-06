@@ -1,4 +1,4 @@
-// Exercise 6 - Cesar Andres Zuleta Malanco
+// Exercise 6 - Author: reDragonCoder
 
 import javax.swing.*;
 

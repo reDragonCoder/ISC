@@ -1,5 +1,5 @@
 ; Suma de dos numeros
-; Celia Fernanda Vela Uribe y Cesar Andres Zuleta Malanco
+; Author: reDragonCoder
 ; 27/02/2025
 ; Lenguaje Ensamblador
 

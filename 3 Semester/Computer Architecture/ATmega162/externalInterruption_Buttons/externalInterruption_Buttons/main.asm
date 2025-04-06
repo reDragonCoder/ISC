@@ -2,7 +2,7 @@
 ; externalInterruption_Buttons.asm
 ;
 ; Created: 16/12/2024 10:56:02 a. m.
-; Author : darely
+; Author : reDragonCoder
 ;
 
 .include <m162def.inc>

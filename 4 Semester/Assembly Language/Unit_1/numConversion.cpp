@@ -1,5 +1,5 @@
 // Conversor de decimal a binario, octal y hexadecimal
-// Celia Fernanda Vela Uribe y César Andrés Zuleta Malanco
+// Author: reDragonCoder
 // 19/02/2025
 // Ensamblador
 

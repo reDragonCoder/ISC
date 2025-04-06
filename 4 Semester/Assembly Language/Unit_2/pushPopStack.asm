@@ -1,5 +1,5 @@
 ; Push y Pop (Stack)
-; Celia Fernanda Vela Uribe y Cesar Andres Zuleta Malanco
+; CAuthor: reDragonCoder
 ; 20/03/2025
 ; Assembly Language
       

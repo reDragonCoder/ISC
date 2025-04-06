@@ -1,3 +1,5 @@
+# Author: reDragonCoder
+
 # ------------ LIBRARIES ------------
 # Libraries for sending HTTP requests
 import requests
@@ -20,12 +22,12 @@ chuckN_url = "https://api.chucknorris.io/jokes/random"
 # -----------------------------------
 
 # ------------- API KEYS ------------
-nasa_key = "RjeNVFxhx2TnbLN8OZcqdQ17LBMqRxGtSyacFM4s"
-consumerX_key='JHnRw8Auqu4SNUsIQ1EpzshR6'
-consumerX_secret='kmYE6ZgPBikmMZtaBzsNsF83Xqk4TFHHAvvEh0fwRy8zkrmQ5t'
-bearerX_token='AAAAAAAAAAAAAAAAAAAAAEoTzgEAAAAAbhrYoe0TlP1GFC0dsBP1KThJvoc%3DyAanX3UCYEpIQyTrKzLpFZDdbgxikC7YEc18uKvg0bkkTuQpTs' 
-accessX_token='1893874559163527168-sajhzV0mFSkaZQWOC8MxI9Lh33wx8F'
-accessX_token_secret='nqdLvVaTUBLLzGVkbQwmAoK5MA2xM1YBfAmiry6KdYjyY'
+nasa_key = ""
+consumerX_key=''
+consumerX_secret=''
+bearerX_token='' 
+accessX_token=''
+accessX_token_secret=''
 # -----------------------------------
 
 # ---------- GUI FUNCTIONS ----------

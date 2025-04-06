@@ -2,7 +2,7 @@
 ; externalInterruption_7SegmentDisplay.asm
 ;
 ; Created: 16/12/2024 10:50:01 a. m.
-; Author : fer
+; Author : reDragonCoder
 ;
 
 .include <m162def.inc>

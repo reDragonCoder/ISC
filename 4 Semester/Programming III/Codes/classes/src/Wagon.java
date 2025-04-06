@@ -1,4 +1,4 @@
-// Exercise 3 - Cesar Andres Zuleta Malanco
+// Exercise 3 - Author: reDragonCoder
 
 import javax.swing.*;
 import java.util.Arrays;

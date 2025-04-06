@@ -1,5 +1,5 @@
 ; Numeros primos Print
-; Celia Fernanda Vela Uribe y Cesar Andres Zuleta Malanco
+; Author: reDragonCoder
 ; 02/04/2025
 ; Assembly Language
 

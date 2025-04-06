@@ -2,12 +2,12 @@
 ; matrixKeyboard_7SegmentDisplay.asm
 ;
 ; Created: 07/12/2024 07:25:21 p. m.
-; Author : darely
+; Author : reDragonCoder
 ;
 
 .include <m162def.inc>
 
-; Configuración de puertos
+; Configuraciï¿½n de puertos
 LDI     R16, 0xFF       ; Configura todos los pines de PORTB como salidas
 OUT     DDRB, R16
 
@@ -30,7 +30,7 @@ OUT     PORTB, R19
 CICLO:
     LDI     R17, 0x00        ; Usamos R17 como contador de posiciones para el KeyPad
 
-; Ubicamos la dirección de la TABLA Z=HIGH:LOW (R31:R30) donde están almacenados los códigos del KeyPad
+; Ubicamos la direcciï¿½n de la TABLA Z=HIGH:LOW (R31:R30) donde estï¿½n almacenados los cï¿½digos del KeyPad
     LDI     R31, HIGH(TABLA<<1)
     LDI     R30, LOW(TABLA<<1)
 
@@ -51,7 +51,7 @@ F1_C1:
 
 F1_C2:
     CBI     PORTA, 4
-    INC     R17              ; Aumentamos en 1 el conteo para la posición del dato de la tabla
+    INC     R17              ; Aumentamos en 1 el conteo para la posiciï¿½n del dato de la tabla
     RCALL   Rebote           ; Generamos un retardo de 20ms para evitar rebote
     IN      R18, PINA        ; Leemos todo el dato del Puerto A
     BST     R18, 1           ; Enviamos el bit 1 (C2) al bit T del Registro de Estado
@@ -230,10 +230,10 @@ FinFilaF4:
 
 ; Subrutina para mostrar el valor en el display de 7 segmentos
 DatoTabla:
-    ; R17 contiene la posición de la tecla en el teclado (fila * 4 + columna)
-    ; El índice de la tabla se calcula como R17
+    ; R17 contiene la posiciï¿½n de la tecla en el teclado (fila * 4 + columna)
+    ; El ï¿½ndice de la tabla se calcula como R17
 
-    ADD     R30, R17         ; Sumamos la posición de la tecla a la parte baja del registro Z
+    ADD     R30, R17         ; Sumamos la posiciï¿½n de la tecla a la parte baja del registro Z
     BRCC    SIGUE            ; Saltamos si no hubo overflow (sin acarreo)
     INC     R31              ; Si hubo acarreo, incrementamos R31
 SIGUE:
@@ -250,9 +250,9 @@ DElay:
 	RET
    
 
-; Tabla de códigos para el display 7 segmentos (hexadecimal)
+; Tabla de cï¿½digos para el display 7 segmentos (hexadecimal)
 TABLA:
     .DB     0xF9, 0x99, 0xF8, 0x8E   ; Fila 1: 1, 2, 3, A
     .DB     0xA4, 0x92, 0x80, 0xC0   ; Fila 2: 4, 5, 6, B
     .DB     0xB0, 0x82, 0x98, 0x86   ; Fila 3: 7, 8, 9, C
-    .DB     0x88, 0x83, 0xC6, 0xA1   ; Fila 4: F, 0, D, E
+    .DB     0x88, 0x83, 0xC6, 0xA1   ; Filaï¿½4:ï¿½F,ï¿½0,ï¿½D,ï¿½E

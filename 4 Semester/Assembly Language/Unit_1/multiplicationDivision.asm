@@ -1,5 +1,5 @@
 ; Multiplication & Division
-; Celia Fernanda Vela Uribe - Cesar Andres Zuleta Malanco
+; Author: reDragonCoder
 ; 03/03/2025
 ; Lenguaje Ensamblador
 

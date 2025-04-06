@@ -1,7 +1,4 @@
 % Programa para generar isoclinas de Ecuaciones Diferenciales de primer orden
-%
-%                                      Universidad Autónoma de Aguascalientes
-% @autor: Fracnisco Javier Sanchez Vallin
 % @version: 2025.1
 % @surso: ISC 4C Ecuaciones Diferenciales
 

@@ -1,5 +1,5 @@
 ; Suma con variables
-; Celia Fernanda Vela Uribe - Cesar Andres Zuleta Malanco
+; Author: reDragonCoder
 ; 05/03/2025
 ; Ensamblador
 

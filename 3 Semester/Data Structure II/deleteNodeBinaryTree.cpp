@@ -1,5 +1,4 @@
-// Author: reDragonCoright
-//CESAR ANDRES ZULETA MALANCO - ID: 300077
+// Author: reDragonCoder
 
 //LIBRARIES
 #include <iostream>
