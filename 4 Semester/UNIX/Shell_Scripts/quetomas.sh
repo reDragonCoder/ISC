@@ -11,8 +11,8 @@ echo -n "$NOM, que te gusta tomar: "; read BEBIDA
 case $BEBIDA in
 tequila|TEQUILA|Tequila) NT=$(($NT+1));;
 cerveza|chela|cheve) NC=$(($NC+1));;
-whisky|WHISKY|Whisky) NW=(($NW+1));;
-ron|RON|Ron) NR=(($NR+1));;
+whisky|WHISKY|Whisky) NW=$(($NW+1));;
+ron|RON|Ron) NR=$(($NR+1));;
 *) NI=$(($NI+1));;
 esac
 
