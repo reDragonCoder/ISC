@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+# !/usr/bin/env bash
 # Objective: greeat the user based on its age
 # Use: bash greetings.sh
 

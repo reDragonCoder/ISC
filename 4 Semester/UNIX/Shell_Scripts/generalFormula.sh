@@ -1,4 +1,4 @@
-#!/bin/bash
+# !/bin/bash
 
 capture(){
  echo -n "Value a="; read A
